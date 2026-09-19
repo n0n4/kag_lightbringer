@@ -1,0 +1,2620 @@
+Version 0.0.1.8:
+Changed LICH(Lich)  from  to Lich.
+Changed LICHSUPER(Lich) Type: from Off to Melee.
+Changed LICHSUPER(Lich) Damage: from Off to 20.
+Changed LICHSUPER(Lich) DamageType: from Off to Magic.
+Changed LICHSUPER(Lich) Morale Damage: from Off to 0.
+Changed LICHSUPER(Lich) Mor. Dmg Type: from Off to Normal.
+Changed LICHSUPER(Lich) Reload Time: from Off to 0.
+Changed LICHSUPER(Lich) Type: from Off to Cast.
+Changed LICHSUPER(Lich) DamageType: from Off to Normal.
+Changed LICHSUPER(Lich) Morale Damage: from Off to 0.
+Changed LICHSUPER(Lich) Mor. Dmg Type: from Off to Normal.
+Changed LICHSUPER(Lich) Reload Time: from Off to 3.
+Changed LICHSUPER(Lich) ExceptFaction: from Off to None.
+Changed LICHSUPER(Lich) OnlyFaction: from Off to Ceyah.
+Changed LICHSUPER(Lich) Race: from Off to Any.
+Changed LICHSUPER(Lich) Tech: from Off to Lich.
+Changed LICHSUPER(Lich) Control zone: from Off to 4.
+Changed LICHSUPER(Lich) Entrenchment: from Off to 2.
+Changed LICHSUPER(Lich) Morale: from Off to 30.
+Changed LICHSUPER(Lich) Visual range: from Off to 5.
+Changed LICHSUPER(Lich)  from  to Frost Lich.
+Changed LICHSUPER(Lich) Cost in gold: from Off to 24.
+Changed LICHSUPER(Lich) Defense: from Off to 16.
+Changed LICHSUPER(Lich) Max hit points: from Off to 160.
+Changed LICHSUPER(Lich) Color: from Off to Mod.
+Changed LICHSUPER(Lich) Proper name: from Off to Frost Lich.
+Changed LICHSUPER(Lich) Iron upkeep: from Off to 1.
+Changed LICHSUPER(Lich) Mana upkeep: from Off to 4.
+Changed LICHSUPER(Lich) Stone upkeep: from Off to 0.
+Changed LICHSUPER(Lich) Wood upkeep: from Off to 0.
+Changed LICHSUPER(Lich) Regen: from Off to 3.
+Changed LICHSUPER(Lich) Max Mana: from Off to 60.
+Changed LICHSUPER(Lich) Spell 0: from Off to Horde Of The Dead.
+Changed LICHSUPER(Lich) Spell 1: from Off to Arctic Blast.
+Changed LICHSUPER(Lich) Spell 0: from Off to None.
+Changed LICHSUPER(Lich) Spell 1: from Off to None.
+Changed LICHSUPER(Lich) Spell 0: from Off to None.
+Changed LICHSUPER(Lich) Spell 1: from Off to None.
+Changed LICHSUPER(Lich) Spell 0: from Off to None.
+Changed LICHSUPER(Lich) Spell 1: from Off to None.
+Changed LICHSUPER(Lich) Banner: from Off to 23.
+Changed LICHSUPER(Lich) Description: from Off to The lich is a special form of Wraith, even more terrifying in power and capacity for evil. They have an innate ability to see beyond normal reality, increasing their awareness of their surroundings and enabling their company to increase its zone of control. Liches also infuse their companies with dark energies which hurt enemies in battle..
+Changed LICHSUPER(Lich) Move: from Off to 18.
+Changed LICHSUPER(Lich) Type: from Off to Support.
+Changed LICHSUPER(Lich) Walk distance: from Off to 0.85.
+Changed PIKEMANSUPER(Pikeman) Type: from Off to Melee.
+Changed PIKEMANSUPER(Pikeman) Damage: from Off to 22.
+Changed PIKEMANSUPER(Pikeman) DamageType: from Off to Normal.
+Changed PIKEMANSUPER(Pikeman) Morale Damage: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Mor. Dmg Type: from Off to Normal.
+Changed PIKEMANSUPER(Pikeman) Reload Time: from Off to 0.5.
+Changed PIKEMANSUPER(Pikeman) Type: from Off to None.
+Changed PIKEMANSUPER(Pikeman) DamageType: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Morale Damage: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Mor. Dmg Type: from Off to Normal.
+Changed PIKEMANSUPER(Pikeman) Reload Time: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) ExceptFaction: from Off to Ceyah.
+Changed PIKEMANSUPER(Pikeman) OnlyFaction: from Off to Any.
+Changed PIKEMANSUPER(Pikeman) Race: from Off to MARETEN.
+Changed PIKEMANSUPER(Pikeman) Tech: from Off to Pikeman.
+Changed PIKEMANSUPER(Pikeman) Control zone: from Off to 4.
+Changed PIKEMANSUPER(Pikeman) Entrenchment: from Off to .8.
+Changed PIKEMANSUPER(Pikeman) Morale: from Off to 40.
+Changed PIKEMANSUPER(Pikeman) Visual range: from Off to 6.
+Changed PIKEMANSUPER(Pikeman) DAMAGE_TAKEN_FROM_RANGED from Off to 0.3.
+Changed PIKEMANSUPER(Pikeman)  from  to Skirmisher.
+Changed PIKEMANSUPER(Pikeman) Cost in gold: from Off to 4.
+Changed PIKEMANSUPER(Pikeman) Defense: from Off to 10.
+Changed PIKEMANSUPER(Pikeman) Max hit points: from Off to 250.
+Changed PIKEMANSUPER(Pikeman) Color: from Off to Mod.
+Changed PIKEMANSUPER(Pikeman) Proper name: from Off to Skirmisher.
+Changed PIKEMANSUPER(Pikeman) Iron upkeep: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Mana upkeep: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Stone upkeep: from Off to 0.
+Changed PIKEMANSUPER(Pikeman) Wood upkeep: from Off to 1.
+Changed PIKEMANSUPER(Pikeman) Spell 0: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 1: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 0: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 1: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 0: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 1: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 0: from Off to None.
+Changed PIKEMANSUPER(Pikeman) Spell 1: from Off to None.
+Changed PIKEMANSUPER(Pikeman) DEFENSE_BONUS_VS_ARCHER from Off to 4.
+Changed PIKEMANSUPER(Pikeman) MOVEMENT_BONUS from Off to 1.1.
+Changed PIKEMANSUPER(Pikeman) Banner: from Off to 13.
+Changed PIKEMANSUPER(Pikeman) Captain: from Off to captain.
+Changed PIKEMANSUPER(Pikeman) Description: from Off to The Skirmisher is equipped with special armor that can withstand arrowfire. .
+Changed PIKEMANSUPER(Pikeman) Move: from Off to 20.
+Changed PIKEMANSUPER(Pikeman) Type: from Off to Front.
+Changed PIKEMANSUPER(Pikeman) Walk distance: from Off to 0.77.
+
+Version 0.0.1.7:
+Changed CULTIST(Cultist) Damage: from 16 to 10.
+Changed CULTIST(Cultist) MELEE_UNHOLY_DAMAGE from 6 to 4.
+Changed CULTIST(Cultist) Max hit points: from 230 to 210.
+
+Version 0.0.1.6:
+Changed CULTIST(Cultist) Reload Time: from 0.5 to 0.3.
+Changed CULTIST(Cultist) MELEE_UNHOLY_DAMAGE from 4 to 6.
+Changed CULTIST(Cultist) Max hit points: from 180 to 230.
+Changed CULTIST(Cultist) DAMAGE_TAKEN_FROM_HOLY from Off to 0.75.
+
+Version 0.0.1.5:
+Changed DISCIPLE(Disciple) DAMAGE_TAKEN_FROM_RANGED from 0.65 to 0.85.
+Changed INFANTRY(Infantry) Defense: from 16 to 14.
+Changed SCOUT(Scout) Max hit points: from 235 to 240.
+Changed SCOUT(Scout) ATTACK_BONUS_TO_ANY from Off to 1.
+
+Version 0.0.1.4:
+Changed ARCHER_SUPPORT(Hunter) Max hit points: from 140 to 150.
+Changed ARCHER_SUPPORT(Hunter) ATTACK_BONUS_TO_ANY from Off to 1.
+Changed DISCIPLE(Disciple) Max hit points: from 280 to 300.
+Changed FOOTMAN(Footman) Max hit points: from 225 to 240.
+Changed GOLEM2(Golem Warrior) Max hit points: from 300 to 280.
+Changed GRENADIER(Grenadier) Damage: from 28 to 36.
+Changed GRENADIER(Grenadier) Reload Time: from 0.5 to 1.
+Changed GRENADIER(Grenadier) OnlyFaction: from Any to Nationalist.
+Changed GRENADIER(Grenadier) ATTACK_BONUS_TO_MOUNTED from 4 to 8.
+Changed INFANTRY(Infantry) Max hit points: from 280 to 300.
+Changed KNIGHT(Knight) Defense: from 8 to 6.
+Changed OVERSEER(Overseer) Max hit points: from 200 to 250.
+Changed PIKEMAN(Pikeman) OnlyFaction: from Any to Council.
+Changed PIKEMAN(Pikeman) Max hit points: from 220 to 250.
+Changed PROPHET(Prophet) MELEE_UNHOLY_DAMAGE from Off to 2.
+Changed SKELETON(Skeleton Warrior) Max hit points: from 250 to 260.
+Changed SUMMONER(Summoner) Defense: from 4 to 8.
+Changed SUMMONER(Summoner) Spell 0: from Mystic Shield to Entangle.
+Changed UNDEAD(Undead) Max hit points: from 200 to 250.
+Changed ZOMBIE(Zombie) MELEE_UNHOLY_DAMAGE from Off to 2.
+
+Version 0.0.1.3:
+Changed DRAUGA_BEASTRIDER(Beast Rider) DAMAGE_TAKEN_FROM_MELEE from Off to 0.8.
+Changed DRAUGA_BEASTRIDER(Beast Rider) Max hit points: from 280 to 320.
+Changed DRAUGA_BERSERKER(Berserker) Damage: from 30 to 32.
+Changed DRAUGA_BERSERKER(Berserker) ATTACK_BONUS_TO_ARCHER from Off to 2.
+Changed DRAUGA_BERSERKER(Berserker) DAMAGE_TAKEN_FROM_MELEE from Off to 0.8.
+Changed GAURI_ANVIL(Gauri Anvil) Damage: from 22 to 24.
+Changed GAURI_ANVIL(Gauri Anvil) Max hit points: from 240 to 280.
+
+Version 0.0.1.2:
+Changed DRAGOON(Dragoon) REVERSE_DAMAGE_WHEN_HIT from 6 to 8.
+Changed DRAGOON(Dragoon) Defense: from 16 to 18.
+Changed LANCER(Lancer) Damage: from 22 to 24.
+Changed LANCER(Lancer) Defense: from 12 to 14.
+Changed SCOUT(Scout) Max hit points: from 225 to 235.
+
+Version 0.0.1.1:
+Changed DRAUGA_MILITIA(Drauga Militia) Max hit points: from 220 to 240.
+Changed RHAKSHA_SLAVE(Rhaksha Slave) Max hit points: from 150 to 250.
+Changed RHAKSHA_SLAVE(Rhaksha Slave) ATTACK_BONUS_TO_ROUTED from Off to 6.
+Changed RHAKSHA_SLAVE(Rhaksha Slave) Captain: from Shadow_captain to Rhaksha_leader.
+Changed SLAANRI_CHAMPION(Slaanri Champion) Defense: from 16 to 18.
+Changed SLAANRI_CHAMPION(Slaanri Champion) Max hit points: from 275 to 300.
+Changed SLAANRI_CHAMPION(Slaanri Champion) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed SLAANRI_CHAMPION(Slaanri Champion) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Type: from Off to Melee.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Damage: from Off to 28.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) DamageType: from Off to Normal.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Morale Damage: from Off to 0.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Mor. Dmg Type: from Off to Normal.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Reload Time: from Off to 0.5.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Anim: from Off to 0.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Type: from Off to Cast.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) DamageType: from Off to Normal.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Morale Damage: from Off to 0.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Mor. Dmg Type: from Off to Normal.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Reload Time: from Off to 3.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) ExceptFaction: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) OnlyFaction: from Off to Any.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Race: from Off to Slaan.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Tech: from Off to Slaanri Champion.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Control zone: from Off to 4.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Entrenchment: from Off to 1.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Morale: from Off to 50.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Visual range: from Off to 6.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Cost in gold: from Off to 10.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Defense: from Off to 16.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Max hit points: from Off to 275.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Color: from Off to Player.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Proper name: from Off to Slaanri Champion.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Iron upkeep: from Off to 0.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Mana upkeep: from Off to 0.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Stone upkeep: from Off to 2.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Wood upkeep: from Off to 2.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Regen: from Off to 3.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Max Mana: from Off to 50.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 0: from Off to Poison Spit.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 1: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 0: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 1: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 0: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 1: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 0: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Spell 1: from Off to None.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Banner: from Off to 28.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Captain: from Off to slaanri_captain.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Description: from Off to Wielding great forked spears with wild abandon, the Slaanri Champion stands as the strongest and deadliest of all the Slaanri warriors..
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Move: from Off to 18.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Type: from Off to Front.
+Changed SLAANRI_CHAMPION2(Slaanri Champion) Walk distance: from Off to 0.77.
+Changed SLAANRI_MYSTIC(Slaanri Mystic) DAMAGE_TAKEN_FROM_UNHOLY from Off to 0.9.
+Changed SLAANRI_MYSTIC(Slaanri Mystic) DEFENSE_BONUS_VS_ARCHER from Off to 2.
+Changed SLAANRI_MYSTIC(Slaanri Mystic) MOVEMENT_BONUS from Off to 1.1.
+Changed SLAANRI_MYSTIC(Slaanri Mystic) RESUPPLY_RATE_BONUS from Off to 1.1.
+Changed SLAANRI_SLAVER(Slaanri Slaver) Max hit points: from 100 to 145.
+Changed SLAANRI_SLAVER(Slaanri Slaver) MELEE_UNHOLY_DAMAGE from Off to 2.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Type: from Off to Melee.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Damage: from Off to 24.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) DamageType: from Off to Normal.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Morale Damage: from Off to 0.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Mor. Dmg Type: from Off to Normal.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Reload Time: from Off to 0.5.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Type: from Off to Cast.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) DamageType: from Off to Normal.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Morale Damage: from Off to 0.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Mor. Dmg Type: from Off to Normal.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Reload Time: from Off to 3.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) ExceptFaction: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) OnlyFaction: from Off to Any.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Race: from Off to Slaan.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Tech: from Off to Slaanri Slaver.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Control zone: from Off to 5.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Entrenchment: from Off to 1.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Morale: from Off to 50.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Visual range: from Off to 6.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Cost in gold: from Off to 12.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Defense: from Off to 10.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Max hit points: from Off to 100.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Color: from Off to Player.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Proper name: from Off to Slaanri Slaver.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Iron upkeep: from Off to 0.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Mana upkeep: from Off to 2.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Stone upkeep: from Off to 1.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Wood upkeep: from Off to 1.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Regen: from Off to 4.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Max Mana: from Off to 65.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 0: from Off to Poison Cloud.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 1: from Off to Summon Slaan Horde.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 0: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 1: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 0: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 1: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 0: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Spell 1: from Off to None.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Banner: from Off to 13.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Captain: from Off to slaanri_captain.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Description: from Off to Former Mystics twisted by the evil influence of Hss'Rak, the Slaanri Slavers live to do their master's bidding.  The Slavers can poison their foes with a cloud of noxious fumes while calling forth a horde of enslaved Slaan..
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Move: from Off to 20.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Type: from Off to Support.
+Changed SLAANRI_SLAVER2(Slaanri Slaver) Walk distance: from Off to 0.77.
+Changed SLAANRI_WARRIOR(Slaanri Warrior) Defense: from 14 to 16.
+
+Version 0.0.1:
+Changed ARCHER_MILITIA(Archer Militia) Max hit points: from 180 to 190.
+Changed CROSSBOWMILITIA(Crossbow Militia) Max hit points: from 220 to 240.
+Changed DRAGOON(Dragoon) Max hit points: from 320 to 340.
+Changed HUSSAR(Hussar) Damage: from 36 to 40.
+Changed HUSSAR(Hussar) Reload Time: from 1 to 2.
+Changed HUSSAR(Hussar) Max hit points: from 260 to 250.
+Changed LANCERMILITIA(Lancer Militia) Reload Time: from 1 to 2.
+Changed SCOUTMILITIA(Scout Militia) Reload Time: from 1 to 2.
+Changed SCOUTMILITIA(Scout Militia) DAMAGE_TAKEN_FROM_RANGED from 0.5 to 0.75.
+Changed UNDEAD_MILITIA(Undead Militia) Max hit points: from 210 to 220.
+Changed VILLAGE_MILITIA(Militia) Max hit points: from 180 to 190.
+
+Version 0.0.0.99:
+Changed LANCER(Lancer) Morale: from 40 to 42.
+Changed LANCER(Lancer) ATTACK_BONUS_TO_ROUTED from Off to 4.
+Changed ROYALIST_TOWN(Royalist Town) Militia Type: from Horsemilitia to Scoutmilitia.
+Changed ROYALIST_VILLAGE(Royalist Village) Militia Type: from Horsemilitia to Scoutmilitia.
+
+Version 0.0.0.98:
+Changed FOOTMAN(Footman) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed HORSEMILITIA(Horserider Militia) Reload Time: from 0.5 to 1.
+Changed HUSSAR(Hussar) Damage: from 38 to 36.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_MOUNTED from 2 to -4.
+Changed PIKEMAN(Pikeman) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed SCOUTMILITIA(Scout) Type: from Off to Melee.
+Changed SCOUTMILITIA(Scout) Damage: from Off to 36.
+Changed SCOUTMILITIA(Scout) DamageType: from Off to Normal.
+Changed SCOUTMILITIA(Scout) Morale Damage: from Off to 0.
+Changed SCOUTMILITIA(Scout) Mor. Dmg Type: from Off to Normal.
+Changed SCOUTMILITIA(Scout) Reload Time: from Off to 1.
+Changed SCOUTMILITIA(Scout) Type: from Off to None.
+Changed SCOUTMILITIA(Scout) DamageType: from Off to 0.
+Changed SCOUTMILITIA(Scout) Morale Damage: from Off to 0.
+Changed SCOUTMILITIA(Scout) Mor. Dmg Type: from Off to Normal.
+Changed SCOUTMILITIA(Scout) Reload Time: from Off to 0.
+Changed SCOUTMILITIA(Scout) ExceptFaction: from Off to Ceyah.
+Changed SCOUTMILITIA(Scout) OnlyFaction: from Off to Any.
+Changed SCOUTMILITIA(Scout) Race: from Off to Mareten.
+Changed SCOUTMILITIA(Scout) Tech: from Off to None.
+Changed SCOUTMILITIA(Scout) Control zone: from Off to 4.
+Changed SCOUTMILITIA(Scout) Entrenchment: from Off to 5.
+Changed SCOUTMILITIA(Scout) Morale: from Off to 30.
+Changed SCOUTMILITIA(Scout) Visual range: from Off to 8.
+Changed SCOUTMILITIA(Scout)  from  to Scout Militia.
+Changed SCOUTMILITIA(Scout) Cost in gold: from Off to 6.
+Changed SCOUTMILITIA(Scout) Defense: from Off to 8.
+Changed SCOUTMILITIA(Scout) Max hit points: from Off to 200.
+Changed SCOUTMILITIA(Scout) Color: from Off to Player.
+Changed SCOUTMILITIA(Scout) Proper name: from Off to Scout Militia.
+Changed SCOUTMILITIA(Scout) Iron upkeep: from Off to 0.
+Changed SCOUTMILITIA(Scout) Mana upkeep: from Off to 0.
+Changed SCOUTMILITIA(Scout) Stone upkeep: from Off to 0.
+Changed SCOUTMILITIA(Scout) Wood upkeep: from Off to 0.
+Changed SCOUTMILITIA(Scout) Spell 0: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 1: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 0: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 1: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 0: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 1: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 0: from Off to None.
+Changed SCOUTMILITIA(Scout) Spell 1: from Off to None.
+Changed SCOUTMILITIA(Scout) Banner: from Off to 20.
+Changed SCOUTMILITIA(Scout) Captain: from Off to cavalry_captain.
+Changed SCOUTMILITIA(Scout) Description: from Off to Built for speed and reconnaissance, Scouts are the light cavalry elements of the Mareten..
+Changed SCOUTMILITIA(Scout) Move: from Off to 25.
+Changed SCOUTMILITIA(Scout) Type: from Off to Militia.
+Changed SCOUTMILITIA(Scout) Walk distance: from Off to 1.4.
+
+Version 0.0.0.97:
+Changed CEYAH_CITADEL(Ceyah Citadel) Gold Production: from 15 to 24.
+Changed CEYAH_CITY(Ceyah City) Gold Production: from 12 to 18.
+Changed CEYAH_TOWN(Ceyah Town) Gold Production: from 9 to 12.
+Changed COUNCIL_CITADEL(Council Citadel) Gold Production: from 19 to 28.
+Changed COUNCIL_CITY(Council City) Gold Production: from 15 to 21.
+Changed COUNCIL_TOWN(Council Town) Gold Production: from 11 to 14.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Gold Production: from 20 to 32.
+Changed NATIONALIST_CITY(Nationalist City) Gold Production: from 16 to 24.
+Changed NATIONALIST_TOWN(Nationalist Town) Gold Production: from 12 to 16.
+Changed ROYALIST_CITADEL(Royalist Citadel) Gold Production: from 15 to 24.
+Changed ROYALIST_CITY(Royalist City) Gold Production: from 12 to 18.
+Changed ROYALIST_FORTRESS(Royalist Fort) Militia Type 2: from Horsemilitia to Horse_archermilitia.
+Changed ROYALIST_OUTPOST(Royalist Outpost) Militia Type 2: from Horsemilitia to Horse_archermilitia.
+Changed ROYALIST_TOWN(Royalist Town) Gold Production: from 9 to 12.
+
+Version 0.0.0.96:
+Changed HORSE_ARCHERMILITIA(Horse Archer Militia) Max hit points: from 175 to 180.
+Changed HORSE_ARCHERMILITIA(Horse Archer Militia) Type: from Front to Militia.
+Changed ROYALIST_CITADEL(Royalist Citadel) Militia Type: from City_Militia to Lancermilitia.
+Changed ROYALIST_CITY(Royalist City) Militia Type: from City_Militia to Lancermilitia.
+Changed ROYALIST_FORTRESS(Royalist Fort) Militia Type: from City_Militia to Lancermilitia.
+Changed ROYALIST_FORTRESS(Royalist Fort) Militia Type 2: from Archer_Militia to Horsemilitia.
+Changed ROYALIST_OUTPOST(Royalist Outpost) Militia Type: from City_Militia to Lancermilitia.
+Changed ROYALIST_OUTPOST(Royalist Outpost) Militia Type 2: from Archer_Militia to Horsemilitia.
+Changed ROYALIST_TOWN(Royalist Town) Militia Type: from Village_Militia to Horsemilitia.
+Changed ROYALIST_VILLAGE(Royalist Village) Militia Type: from Village_Militia to Horsemilitia.
+
+Version 0.0.0.95:
+Changed ARCHER_MILITIA(Archer Militia) Max hit points: from 160 to 180.
+Changed CITY_MILITIA(Infantry Militia) Max hit points: from 220 to 240.
+Changed CROSSBOWMILITIA(Crossbow Militia) Defense: from 12 to 14.
+Changed HORSEMILITIA(Horse Archer) Type: from Off to Melee.
+Changed HORSEMILITIA(Horse Archer) Damage: from Off to 36.
+Changed HORSEMILITIA(Horse Archer) DamageType: from Off to Normal.
+Changed HORSEMILITIA(Horse Archer) Morale Damage: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Mor. Dmg Type: from Off to Normal.
+Changed HORSEMILITIA(Horse Archer) Reload Time: from Off to 1.
+Changed HORSEMILITIA(Horse Archer) Type: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Damage: from Off to 18.
+Changed HORSEMILITIA(Horse Archer) DamageType: from Off to Normal.
+Changed HORSEMILITIA(Horse Archer) Morale Damage: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Mor. Dmg Type: from Off to Normal.
+Changed HORSEMILITIA(Horse Archer) Reload Time: from Off to 0.5.
+Changed HORSEMILITIA(Horse Archer) Barracks from On to Off.
+Changed HORSEMILITIA(Horse Archer) ExceptFaction: from Off to None.
+Changed HORSEMILITIA(Horse Archer) OnlyFaction: from Off to Royalist.
+Changed HORSEMILITIA(Horse Archer) Race: from Off to Any.
+Changed HORSEMILITIA(Horse Archer) Tech: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Woodmill from On to Off.
+Changed HORSEMILITIA(Horse Archer) Control zone: from Off to 5.
+Changed HORSEMILITIA(Horse Archer) Entrenchment: from Off to 5.
+Changed HORSEMILITIA(Horse Archer) Morale: from Off to 35.
+Changed HORSEMILITIA(Horse Archer) Visual range: from Off to 8.
+Changed HORSEMILITIA(Horse Archer)  from  to Horserider Militia.
+Changed HORSEMILITIA(Horse Archer) Cost in gold: from Off to 8.
+Changed HORSEMILITIA(Horse Archer) Defense: from Off to 8.
+Changed HORSEMILITIA(Horse Archer) Max hit points: from Off to 200.
+Changed HORSEMILITIA(Horse Archer) Color: from Off to Silver.
+Changed HORSEMILITIA(Horse Archer) Proper name: from Off to Horserider Militia.
+Changed HORSEMILITIA(Horse Archer) Iron upkeep: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Mana upkeep: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Stone upkeep: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Wood upkeep: from Off to 0.
+Changed HORSEMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSEMILITIA(Horse Archer) Banner: from Off to 27.
+Changed HORSEMILITIA(Horse Archer) Captain: from Off to cavalry_captain.
+Changed HORSEMILITIA(Horse Archer) Description: from Off to Royalists build their militias out of light cavalry known simply as the horseriders. Horseriders have a strong initial charge but are slower to continue attacking..
+Changed HORSEMILITIA(Horse Archer) Move: from Off to 25.
+Changed HORSEMILITIA(Horse Archer) Type: from Off to Militia.
+Changed HORSEMILITIA(Horse Archer) Walk distance: from Off to 1.4.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Type: from Off to Projectile.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Damage: from Off to 32.
+Changed HORSE_ARCHERMILITIA(Horse Archer) DamageType: from Off to Normal.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Morale Damage: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Mor. Dmg Type: from Off to Normal.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Reload Time: from Off to 2.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Type: from Off to Melee.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Damage: from Off to 18.
+Changed HORSE_ARCHERMILITIA(Horse Archer) DamageType: from Off to Normal.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Morale Damage: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Mor. Dmg Type: from Off to Normal.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Reload Time: from Off to 0.5.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Barracks from On to Off.
+Changed HORSE_ARCHERMILITIA(Horse Archer) ExceptFaction: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) OnlyFaction: from Off to Royalist.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Race: from Off to Any.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Tech: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Woodmill from On to Off.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Control zone: from Off to 5.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Entrenchment: from Off to 5.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Morale: from Off to 35.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Visual range: from Off to 8.
+Changed HORSE_ARCHERMILITIA(Horse Archer)  from  to Horse Archer Militia.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Cost in gold: from Off to 8.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Defense: from Off to 8.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Max hit points: from Off to 175.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Color: from Off to Player.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Proper name: from Off to Horse Archer Militia.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Iron upkeep: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Mana upkeep: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Stone upkeep: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Wood upkeep: from Off to 0.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 0: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Spell 1: from Off to None.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Banner: from Off to 27.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Captain: from Off to cavalry_captain.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Description: from Off to The horse archer is a medium cavalry unit that blends the speed of the scout with the firepower of the bowman. This makes them very versatile units, good for both scouting and hit and run tactics..
+Changed HORSE_ARCHERMILITIA(Horse Archer) Move: from Off to 25.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Type: from Off to Front.
+Changed HORSE_ARCHERMILITIA(Horse Archer) Walk distance: from Off to 1.4.
+Changed HUSSAR(Hussar) Damage: from 19 to 38.
+Changed HUSSAR(Hussar) Reload Time: from 0.5 to 1.
+Changed HUSSAR(Hussar) Morale: from 35 to 40.
+Changed LANCERMILITIA(Lancer) Type: from Off to Melee.
+Changed LANCERMILITIA(Lancer) Damage: from Off to 44.
+Changed LANCERMILITIA(Lancer) DamageType: from Off to Normal.
+Changed LANCERMILITIA(Lancer) Morale Damage: from Off to 0.
+Changed LANCERMILITIA(Lancer) Mor. Dmg Type: from Off to Normal.
+Changed LANCERMILITIA(Lancer) Reload Time: from Off to 1.
+Changed LANCERMILITIA(Lancer) Type: from Off to None.
+Changed LANCERMILITIA(Lancer) DamageType: from Off to 0.
+Changed LANCERMILITIA(Lancer) Morale Damage: from Off to 0.
+Changed LANCERMILITIA(Lancer) Mor. Dmg Type: from Off to Normal.
+Changed LANCERMILITIA(Lancer) Reload Time: from Off to 0.
+Changed LANCERMILITIA(Lancer) Blacksmith from On to Off.
+Changed LANCERMILITIA(Lancer) ExceptFaction: from Off to None.
+Changed LANCERMILITIA(Lancer) OnlyFaction: from Off to Royalist.
+Changed LANCERMILITIA(Lancer) Race: from Off to Mareten.
+Changed LANCERMILITIA(Lancer) Tech: from Off to None.
+Changed LANCERMILITIA(Lancer) Control zone: from Off to 4.
+Changed LANCERMILITIA(Lancer) Entrenchment: from Off to 5.
+Changed LANCERMILITIA(Lancer) Morale: from Off to 40.
+Changed LANCERMILITIA(Lancer) Visual range: from Off to 8.
+Changed LANCERMILITIA(Lancer)  from  to Lancer Militia.
+Changed LANCERMILITIA(Lancer) Cost in gold: from Off to 7.
+Changed LANCERMILITIA(Lancer) Defense: from Off to 12.
+Changed LANCERMILITIA(Lancer) Max hit points: from Off to 240.
+Changed LANCERMILITIA(Lancer) Color: from Off to Player.
+Changed LANCERMILITIA(Lancer) Proper name: from Off to Lancer Militia.
+Changed LANCERMILITIA(Lancer) Iron upkeep: from Off to 0.
+Changed LANCERMILITIA(Lancer) Mana upkeep: from Off to 0.
+Changed LANCERMILITIA(Lancer) Stone upkeep: from Off to 0.
+Changed LANCERMILITIA(Lancer) Wood upkeep: from Off to 0.
+Changed LANCERMILITIA(Lancer) Spell 0: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 1: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 0: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 1: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 0: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 1: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 0: from Off to None.
+Changed LANCERMILITIA(Lancer) Spell 1: from Off to None.
+Changed LANCERMILITIA(Lancer) Banner: from Off to 29.
+Changed LANCERMILITIA(Lancer) Captain: from Off to cavalry_captain.
+Changed LANCERMILITIA(Lancer) Description: from Off to Fast and light, the Lancer serves as the first-strike force for the Royalist armies.  Lightly armored and armed with a broad-bladed short lance, the Lancer is effective against both mounted and foot soldiers..
+Changed LANCERMILITIA(Lancer) Move: from Off to 25.
+Changed LANCERMILITIA(Lancer) Type: from Off to Militia.
+Changed LANCERMILITIA(Lancer) Walk distance: from Off to 1.4.
+Changed SHADOW_MILITIA(Shadow Militia) Max hit points: from 300 to 275.
+
+Version 0.0.0.94:
+Changed CEYAH_CITADEL(Ceyah Citadel) Gold Production: from 12 to 15.
+Changed CEYAH_CITY(Ceyah City) Gold Production: from 10 to 12.
+Changed CEYAH_TOWN(Ceyah Town) Gold Production: from 8 to 9.
+Changed Components(Library) Gold Cost: from 50 to 120.
+Changed COUNCIL_CITADEL(Council Citadel) Gold Production: from 16 to 19.
+Changed COUNCIL_CITY(Council City) Gold Production: from 13 to 15.
+Changed COUNCIL_TOWN(Council Town) Gold Production: from 10 to 11.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Gold Production: from 17 to 20.
+Changed NATIONALIST_CITY(Nationalist City) Gold Production: from 14 to 16.
+Changed NATIONALIST_TOWN(Nationalist Town) Gold Production: from 11 to 12.
+Changed ROYALIST_CITADEL(Royalist Citadel) Gold Production: from 12 to 15.
+Changed ROYALIST_CITY(Royalist City) Gold Production: from 10 to 12.
+Changed ROYALIST_TOWN(Royalist Town) Gold Production: from 8 to 9.
+
+Version 0.0.0.93:
+Changed ARCHER_MILITIA(Archer Militia) Damage: from 28 to 32.
+Changed COUNCIL_FORTRESS(Council Fort) Militia Type: from City_Militia to Crossbowmilitia.
+Changed COUNCIL_OUTPOST(Council Outpost) Militia Type: from City_Militia to Crossbowmilitia.
+Changed CROSSBOWMILITIA(Crossbow Militia) Damage: from 44 to 50.
+Changed CROSSBOWMILITIA(Crossbow Militia) Max hit points: from 200 to 220.
+
+Version 0.0.0.92:
+Changed ARCHER(Bowman) Damage: from 28 to 32.
+Changed Components(Library) Gold Cost: from 50 to 100.
+Changed Components(Library) Sell Price: from 25 to 99.
+Changed CROSSBOWMAN(Crossbowman) Damage: from 44 to 50.
+Changed CROSSBOWMAN2(Archer of the Eyes) Damage: from 56 to 60.
+Changed CROSSBOWMAN2(Archer of the Eyes) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed DISCIPLE(Disciple) Defense: from 10 to 8.
+Changed DISCIPLE(Disciple) Max hit points: from 300 to 280.
+Changed HORSE_ARCHER(Horse Archer) Damage: from 26 to 30.
+Changed PALADIN(Paladin) DEFENSE_BONUS_VS_ANY from 3 to 2.
+Changed PIKEMAN(Pikeman) DEFENSE_BONUS_VS_ANY from 3 to 2.
+Changed RANGER(Ranger) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed UNDEAD_ARCHER(Bone Bow) Damage: from 26 to 28.
+Changed UNDEAD_ARCHER(Bone Bow) Defense: from 6 to 10.
+
+Version 0.0.0.91:
+Changed Components(Iron Export) Gold Cost: from 36 to 50.
+Changed Components(Iron Export) Sell Price: from 60 to 25.
+Changed Components(Mage College) Gold Cost: from 60 to 40.
+Changed Components(Mage College) Sell Price: from 30 to 20.
+Changed Components(Market) Gold Cost: from 60 to 24.
+Changed Components(Market) Sell Price: from 30 to 20.
+Changed Components(Stone Export) Gold Cost: from 24 to 50.
+Changed Components(Stone Export) Sell Price: from 33 to 25.
+
+Version 0.0.0.90:
+Changed COUNCIL_CITADEL(Council Citadel) Militia Type: from City_Militia to Crossbowmilitia.
+Changed COUNCIL_CITY(Council City) Militia Type: from City_Militia to Crossbowmilitia.
+
+Version 0.0.0.89:
+Changed ARCHER_MILITIA(Archer Militia) Damage: from 40 to 28.
+Changed COUNCIL_TOWN(Council Town) Militia Type: from Village_Militia to Archer_militia.
+Changed COUNCIL_VILLAGE(Council Village) Militia Type: from Village_Militia to Archer_militia.
+Changed CROSSBOWMILITIA(Crossbowman) Type: from Off to Projectile.
+Changed CROSSBOWMILITIA(Crossbowman) Damage: from Off to 44.
+Changed CROSSBOWMILITIA(Crossbowman) DamageType: from Off to Normal.
+Changed CROSSBOWMILITIA(Crossbowman) Morale Damage: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Mor. Dmg Type: from Off to Normal.
+Changed CROSSBOWMILITIA(Crossbowman) Reload Time: from Off to 5.
+Changed CROSSBOWMILITIA(Crossbowman) Type: from Off to Melee.
+Changed CROSSBOWMILITIA(Crossbowman) Damage: from Off to 20.
+Changed CROSSBOWMILITIA(Crossbowman) DamageType: from Off to Normal.
+Changed CROSSBOWMILITIA(Crossbowman) Morale Damage: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Mor. Dmg Type: from Off to Normal.
+Changed CROSSBOWMILITIA(Crossbowman) Reload Time: from Off to 0.5.
+Changed CROSSBOWMILITIA(Crossbowman) ExceptFaction: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) OnlyFaction: from Off to Council.
+Changed CROSSBOWMILITIA(Crossbowman) Race: from Off to Mareten.
+Changed CROSSBOWMILITIA(Crossbowman) Tech: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Control zone: from Off to 5.
+Changed CROSSBOWMILITIA(Crossbowman) Entrenchment: from Off to 1.5.
+Changed CROSSBOWMILITIA(Crossbowman) Morale: from Off to 35.
+Changed CROSSBOWMILITIA(Crossbowman) Visual range: from Off to 7.
+Changed CROSSBOWMILITIA(Crossbowman)  from  to Crossbow Militia.
+Changed CROSSBOWMILITIA(Crossbowman) Cost in gold: from Off to 9.
+Changed CROSSBOWMILITIA(Crossbowman) Defense: from Off to 12.
+Changed CROSSBOWMILITIA(Crossbowman) Max hit points: from Off to 200.
+Changed CROSSBOWMILITIA(Crossbowman) Color: from Off to Player.
+Changed CROSSBOWMILITIA(Crossbowman) Proper name: from Off to Crossbow Militia.
+Changed CROSSBOWMILITIA(Crossbowman) Iron upkeep: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Mana upkeep: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Stone upkeep: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Wood upkeep: from Off to 0.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMILITIA(Crossbowman) Banner: from Off to 24.
+Changed CROSSBOWMILITIA(Crossbowman) Captain: from Off to captain.
+Changed CROSSBOWMILITIA(Crossbowman) Description: from Off to Crossbow Militia are heavier-duty archer militia fielded by larger cities..
+Changed CROSSBOWMILITIA(Crossbowman) Move: from Off to 16.
+Changed CROSSBOWMILITIA(Crossbowman) Type: from Off to Militia.
+Changed CROSSBOWMILITIA(Crossbowman) Walk distance: from Off to 0.72.
+
+Version 0.0.0.88:
+Changed CEYAH_CITADEL(Ceyah Citadel) Gold Production: from 29 to 12.
+Changed CEYAH_CITY(Ceyah City) Gold Production: from 18 to 10.
+Changed CEYAH_CITY(Ceyah City) Upgrade Cost: from 300 to 250.
+Changed CEYAH_TOWN(Ceyah Town) Gold Production: from 12 to 8.
+Changed CEYAH_TOWN(Ceyah Town) Upgrade Cost: from 350 to 200.
+Changed Components(Barracks) Gold Cost: from 80 to 50.
+Changed Components(Barracks) Sell Price: from 40 to 30.
+Changed Components(Blacksmith) Gold Cost: from 60 to 40.
+Changed Components(Blacksmith) Sell Price: from 30 to 20.
+Changed Components(Library) Gold Cost: from 100 to 60.
+Changed Components(Library) Sell Price: from 50 to 30.
+Changed Components(Market) Gold Cost: from 60 to 40.
+Changed Components(Market) Sell Price: from 30 to 20.
+Changed Components(Temple) Gold Cost: from 100 to 60.
+Changed Components(Temple) Sell Price: from 50 to 30.
+Changed Components(Woodmill) Gold Cost: from 40 to 30.
+Changed COUNCIL_CITADEL(Council Citadel) Gold Production: from 34 to 16.
+Changed COUNCIL_CITY(Council City) Gold Production: from 21 to 13.
+Changed COUNCIL_CITY(Council City) Upgrade Cost: from 275 to 225.
+Changed COUNCIL_TOWN(Council Town) Gold Production: from 14 to 10.
+Changed COUNCIL_TOWN(Council Town) Upgrade Cost: from 275 to 175.
+Changed COUNCIL_VILLAGE(Council Village) Upgrade Cost: from 110 to 125.
+Changed CROSSBOWMAN2(Archer of the Eyes) RELOAD_TIME_BONUS from Off to 0.9.
+Changed FOOTMAN(Footman) Max hit points: from 200 to 225.
+Changed FOOTMAN(Footman) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed GRENADIER(Grenadier) ATTACK_BONUS_TO_MOUNTED from Off to 4.
+Changed GRENADIER(Grenadier) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed GRENADIER(Grenadier) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed HAROUN_ARCHER(Rainbringer) Max hit points: from 150 to 160.
+Changed HORSE_ARCHER(Horse Archer) Damage: from 24 to 26.
+Changed HORSE_ARCHER(Horse Archer) DAMAGE_TAKEN_FROM_RANGED from Off to 0.8.
+Changed HORSE_ARCHER(Horse Archer) ATTACK_BONUS_TO_ANY from Off to 1.
+Changed HORSE_ARCHER(Horse Archer) DAMAGE_TAKEN_FROM_RANGED from Off to 0.8.
+Changed HORSE_ARCHER(Horse Archer) MOVEMENT_BONUS from Off to 1.1.
+Changed HORSE_ARCHER(Horse Archer) VISUAL_RANGE_BONUS from Off to 1.1.
+Changed INFANTRY(Infantry) ATTACK_BONUS_TO_ANY from Off to 1.
+Changed INFANTRY(Infantry) DEFENSE_BONUS_VS_ANY from Off to 1.
+Changed LANCER(Lancer) Morale: from 35 to 40.
+Changed LANCER(Lancer) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Gold Production: from 32 to 17.
+Changed NATIONALIST_CITY(Nationalist City) Gold Production: from 24 to 14.
+Changed NATIONALIST_CITY(Nationalist City) Upgrade Cost: from 400 to 250.
+Changed NATIONALIST_TOWN(Nationalist Town) Gold Production: from 16 to 11.
+Changed NATIONALIST_TOWN(Nationalist Town) Upgrade Cost: from 400 to 250.
+Changed ROYALIST_CITADEL(Royalist Citadel) Gold Production: from 29 to 12.
+Changed ROYALIST_CITY(Royalist City) Gold Production: from 18 to 10.
+Changed ROYALIST_CITY(Royalist City) Upgrade Cost: from 350 to 250.
+Changed ROYALIST_TOWN(Royalist Town) Gold Production: from 12 to 8.
+Changed ROYALIST_TOWN(Royalist Town) Upgrade Cost: from 350 to 200.
+Changed SUMMONER(Summoner) DEFENSE_BONUS_VS_ARCHER from Off to 4.
+Changed WINDRIDER(Windrider) Morale: from 30 to 35.
+Changed WINDRIDER(Windrider) Max hit points: from 220 to 260.
+Changed WINDRIDER(Windrider) ATTACK_BONUS_TO_ANY from Off to 2.
+
+Version 0.0.0.87:
+Changed ACOLYTE(Acolyte) Max hit points: from 125 to 145.
+Changed ARCHER(Bowman) Move: from 18 to 20.
+Changed ARCHERC(Man at Arms) ATTACK_BONUS_TO_ARCHER from Off to -6.
+Changed ARCHERC(Man at Arms) Move: from 18 to 20.
+Changed ARCHMAGE(Archmage) Max hit points: from 140 to 160.
+Changed BATTLE_PRIEST(Battle Priest) Max hit points: from 120 to 140.
+Changed CELEBRANT(Celebrant) Max hit points: from 125 to 145.
+Changed CHANNELER(Channeler) Max hit points: from 120 to 140.
+Changed CLERIC(Cleric) Max hit points: from 120 to 140.
+Changed CONJUROR(Conjuror) Max hit points: from 130 to 150.
+Changed CROSSBOWMAN(Crossbowman) Defense: from 12 to 16.
+Changed CROSSBOWMAN(Crossbowman) DEFENSE_BONUS_VS_ANY from 2 to 1.
+Changed CROSSBOWMAN2(Archer of the Eyes) Defense: from 10 to 16.
+Changed DEFILER(Defiler) Max hit points: from 125 to 145.
+Changed DEVOUT(Devout) Max hit points: from 125 to 145.
+Changed ELEMENTALIST(Elementalist) Max hit points: from 140 to 160.
+Changed ENCHANTER(Enchanter) Max hit points: from 145 to 165.
+Changed FANATIC(Fanatic) Max hit points: from 125 to 145.
+Changed HIGH_PRIEST(High Priest) Max hit points: from 125 to 145.
+Changed INVOKER(Invoker) Max hit points: from 140 to 160.
+Changed LICH(Lich) Max hit points: from 140 to 160.
+Changed MACABRE(Macabre) Max hit points: from 140 to 160.
+Changed MAELSTROM_ORB(Maelstrom Engine) Damage: from 25 to 24.
+Changed MAELSTROM_ORB(Maelstrom Engine) DAMAGE_TAKEN_FROM_MELEE from Off to 1.25.
+Changed MAELSTROM_ORB(Maelstrom Engine) DEFENSE_BONUS_VS_ARCHER from Off to 6.
+Changed MAELSTROM_ORB(Maelstrom Engine) Move: from 16 to 14.
+Changed MAELSTROM_ORB2(Ballista) Damage: from 18 to 17.
+Changed MAELSTROM_ORB2(Ballista) DAMAGE_TAKEN_FROM_MELEE from Off to 1.25.
+Changed MAELSTROM_ORB2(Ballista) DEFENSE_BONUS_VS_ARCHER from 2 to 6.
+Changed NECROMANCER(Necromancer) Max hit points: from 120 to 140.
+Changed ORACLE(Oracle) Max hit points: from 125 to 145.
+Changed PATHFINDER(Pathfinder) Max hit points: from 250 to 300.
+Changed PROPHET(Prophet) Max hit points: from 120 to 140.
+Changed SHADOW_PRIEST(Shadow Priest) Max hit points: from 120 to 140.
+Changed SHADOW_PROPHET(Shadow Prophet) Max hit points: from 125 to 145.
+Changed SLAAN_CHAMPION(Champion) Max hit points: from 250 to 300.
+Changed SORCERER(Sorcerer) Max hit points: from 125 to 145.
+Changed SORCERESS(Sorceress) Max hit points: from 130 to 150.
+Changed STORM_LORD(Storm Lord) Max hit points: from 140 to 160.
+Changed SUMMONER(Summoner) Max hit points: from 130 to 150.
+Changed WARLOCK(Warlock) Max hit points: from 140 to 160.
+Changed WARMAGE(Magician) Max hit points: from 130 to 150.
+Changed WIZARD(Wizard) Library from On to Off.
+Changed WIZARD(Wizard) WizardTower from Off to On.
+Changed WIZARD(Wizard) Max hit points: from 130 to 150.
+Changed WRAITH(Wraith) Max hit points: from 120 to 140.
+Changed ZEALOT(Zealot) Max hit points: from 120 to 140.
+
+Version 0.0.0.86:
+Changed DISCIPLE(Disciple) Defense: from 12 to 10.
+Changed DISCIPLE(Disciple) Max hit points: from 320 to 300.
+Changed DISCIPLE(Disciple) Stone upkeep: from 0 to 1.
+
+Version 0.0.0.85:
+Changed ARCHERC(Man at Arms) Color: from Player to Mod.
+
+Version 0.0.0.84:
+Changed ARCHERC(Man at Arms)  from  to Man at Arms.
+Changed ARCHERC(Man at Arms) Color: from Silver to Player.
+Changed Colors(Colors) Mod Color Brightest: from  to 200,240,250.
+
+Version 0.0.0.83:
+Changed Colors(Colors) Mod Color Darkest: from 58,67,81 to 158,207,201.
+
+Version 0.0.0.82:
+Changed CEYAH_CITY(Ceyah City) Upgrade Cost: from 500 to 300.
+Changed COUNCIL_CITY(Council City) Upgrade Cost: from 500 to 275.
+Changed DRAUGA_BERSERKER(Berserker) Morale: from 45 to 50.
+Changed DRAUGA_BERSERKER(Berserker) Max hit points: from 260 to 320.
+Changed ENCHANTER(Enchanter) Max hit points: from 140 to 145.
+Changed ENCHANTER(Enchanter) Mana upkeep: from 4 to 3.
+Changed ENGINEER_MINER(Miner) Color: from Player to Mod.
+Changed GRENADIER(Grenadier) Morale Damage: from 0 to 0.1.
+Changed GRENADIER(Grenadier) DAMAGE_TAKEN_FROM_RANGED from Off to 0.9.
+Changed MACABRE(Macabre) Regen: from 4 to 5.
+Changed NATIONALIST_CITY(Nationalist City) Upgrade Cost: from 500 to 400.
+Changed PIKEMAN(Pikeman) Barracks from On to Off.
+Changed PIKEMAN(Pikeman) Blacksmith from Off to On.
+Changed REAVER(Bone Reaver) Barracks from Off to On.
+Changed ROYALIST_CITY(Royalist City) Upgrade Cost: from 500 to 350.
+Changed SETTLER(Settler) Move: from 16 to 20.
+Changed SHADOW_KNIGHT(Shadow Knight) Barracks from On to Off.
+Changed SHADOW_KNIGHT(Shadow Knight) ManaForge from Off to On.
+Changed SHOCK_TROOPER(Elite Guard) Morale Damage: from 0 to 0.2.
+Changed SHOCK_TROOPER(Elite Guard) DAMAGE_TAKEN_FROM_RANGED from Off to 0.8.
+Changed SLAANRI_MILITIA(Slaanri Militia) Damage: from 20 to 22.
+Changed SLAANRI_MILITIA(Slaanri Militia) Max hit points: from 200 to 220.
+Changed SORCERESS(Sorceress) Regen: from 3 to 4.
+Changed WRAITH(Wraith) Regen: from 3 to 4.
+
+Version 0.0.0.81:
+Changed Settings(Settings) Wood Exchange: from 2 to 3.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Next Level: from  to Slaanri_dwelling.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Components to level: from  to 2.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Gold Limit Modifier: from  to 0.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Upgrade Cost: from  to 150.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Upgrades to level: from  to 0.
+Changed SLAAN_VILLAGE(Slaanri Kraal) Upgrade Time: from  to 45.
+
+Version 0.0.0.80:
+Changed ARCHER(Bowman) ENTRENCHMENT_RATE_BONUS from 1.1 to 0.9.
+Changed ARCHERC(Man at Arms) Damage: from 26 to 28.
+Changed ARCHERC(Man at Arms) Max hit points: from 260 to 280.
+Changed SHADOW_DEMONFRONT(Night Demon)  from  to Shade.
+Changed SHADOW_DEMONFRONT(Night Demon) Proper name: from Night Demon to Shade.
+Changed SHADOW_DEMONFRONT(Night Demon) Description: from Night Demons are vile creatures that dwell in shadow,  drawn out from the night to serve the Dark Master. to Shades are vile creatures that dwell in shadow,  drawn out from the night to serve the Dark Master..
+
+Version 0.0.0.79:
+Changed ARCHER(Bowman) Damage: from 26 to 28.
+Changed ARCHER(Bowman) Max hit points: from 160 to 175.
+Changed ARCHERC(Man at Arms) Damage: from 22 to 26.
+Changed Components(Fortified Wall) Iron Production: from  to 3.
+Changed Components(Wood Export) Stone Production: from  to 8.
+Changed CROSSBOWMAN(Crossbowman) Damage: from 46 to 44.
+Changed GHOST(Ghost) Damage: from 8 to 16.
+Changed GHOST(Ghost) Morale Damage: from 0.1 to 0.3.
+Changed GHOST(Ghost) Max hit points: from 90 to 100.
+Changed RANGER(Ranger) Max hit points: from 260 to 280.
+Changed WINDRIDER(Windrider) Damage: from 30 to 26.
+Changed WINDRIDER(Windrider) Defense: from 6 to 8.
+Changed WINDRIDER(Windrider) Max hit points: from 200 to 220.
+
+Version 0.0.0.78:
+Changed ARCHERC(Man at Arms) Damage: from 20 to 22.
+Changed ARCHERC(Man at Arms) ATTACK_BONUS_TO_ROUTED from -4 to -8.
+Changed AVATAR(Avatar) Defense: from 12 to 18.
+Changed AVATAR(Avatar) DEFENSE_BONUS_VS_ANY from Off to 3.
+Changed KNIGHT(Knight) Race: from Any to Mareten.
+Changed MAELSTROM_ORB(Maelstrom Engine) Move: from 12 to 16.
+Changed SLAANRI_WARRIOR(Slaanri Warrior) Max hit points: from 220 to 240.
+Changed UNDEAD_ARCHER(Bone Bow) Max hit points: from 150 to 160.
+
+Version 0.0.0.77:
+Changed KNIGHT(Knight) Reload Time: from 1.3 to 1.5.
+Changed KNIGHT(Knight) Defense: from 10 to 8.
+
+Version 0.0.0.76:
+Changed SHADOW_DEMONFRONT(Night Demon) Morale: from 35 to 100.
+Changed SHADOW_DEMONFRONT(Night Demon) DAMAGE_TAKEN_FROM_RANGED from .75 to .5.
+Changed SHADOW_DEMONFRONT(Night Demon) Max hit points: from 200 to 260.
+Changed SHADOW_DEMONFRONT(Night Demon) Regen: from 0.5 to 0.25.
+Changed SHADOW_DEMONFRONT(Night Demon) Max Mana: from 50 to 40.
+
+Version 0.0.0.75:
+Changed GHOST(Ghost) Color: from Gold to Player.
+Changed KNIGHT(Knight) Damage: from 44 to 40.
+Changed KNIGHT(Knight) DAMAGE_TAKEN_FROM_RANGED from 0.8 to 0.5.
+Changed KNIGHT(Knight) DAMAGE_TAKEN_FROM_UNHOLY from Off to 0.5.
+Changed KNIGHT(Knight) Cost in gold: from 8 to 10.
+Changed KNIGHT(Knight) Defense: from 14 to 10.
+Changed KNIGHT(Knight) Max hit points: from 330 to 400.
+Changed KNIGHT(Knight) Description: from Knights are powerful warriors descended from an ancient order of Mareten nobility. Ages ago, the Knights traveled the land by starlight, channeling powerful and ancient magics to clear the skies, revealing the path to their destinies. The remnants of the Knight's order have now settled in Mareten strongholds, in astrology halls where they provide ancient knowledge to the fight against the shadow. One day, they shall return to the lands and open the skies. to Knights are powerful warriors descended from an ancient order of Mareten nobility. Ages ago, the Knights traveled the land by starlight, channeling powerful and ancient magics to clear the skies, revealing the path to their destinies. The remnants of the Knight's order have now settled in Mareten strongholds, in astrology halls where they provide ancient knowledge to the fight against the shadow. One day, they shall return to the lands and open the skies. Knights specialize in combat against heavily armored and magic opponents..
+
+Version 0.0.0.74:
+Changed KNIGHT(Knight) Damage: from 46 to 44.
+Changed KNIGHT(Knight) Reload Time: from 1 to 1.3.
+Changed KNIGHT(Knight) Defense: from 18 to 14.
+Changed KNIGHT(Knight) Max hit points: from 320 to 330.
+
+Version 0.0.0.73:
+Changed Components(Astrology Hall) Iron Production: from  to 2.
+Changed Components(Wizard Tower) Wood Production: from  to 4.
+Changed KNIGHT(Paladin) Type: from Off to Melee.
+Changed KNIGHT(Paladin) Damage: from Off to 46.
+Changed KNIGHT(Paladin) DamageType: from Off to Magic.
+Changed KNIGHT(Paladin) Morale Damage: from Off to 0.
+Changed KNIGHT(Paladin) Mor. Dmg Type: from Off to Normal.
+Changed KNIGHT(Paladin) Reload Time: from Off to 1.
+Changed KNIGHT(Paladin) Type: from Off to None.
+Changed KNIGHT(Paladin) DamageType: from Off to 0.
+Changed KNIGHT(Paladin) Morale Damage: from Off to 0.
+Changed KNIGHT(Paladin) Mor. Dmg Type: from Off to Normal.
+Changed KNIGHT(Paladin) Reload Time: from Off to 0.
+Changed KNIGHT(Paladin) AstrologyHall from Off to On.
+Changed KNIGHT(Paladin) ExceptFaction: from Off to Ceyah.
+Changed KNIGHT(Paladin) OnlyFaction: from Off to Any.
+Changed KNIGHT(Paladin) Race: from Off to Any.
+Changed KNIGHT(Paladin) Tech: from Off to None.
+Changed KNIGHT(Paladin) Temple from On to Off.
+Changed KNIGHT(Paladin) Control zone: from Off to 5.
+Changed KNIGHT(Paladin) Entrenchment: from Off to 2.
+Changed KNIGHT(Paladin) Morale: from Off to 50.
+Changed KNIGHT(Paladin) Visual range: from Off to 8.
+Changed KNIGHT(Paladin) DAMAGE_TAKEN_FROM_KHALDUNITE from Off to 0.5.
+Changed KNIGHT(Paladin) DAMAGE_TAKEN_FROM_MAGIC from Off to 0.5.
+Changed KNIGHT(Paladin) DAMAGE_TAKEN_FROM_RANGED from Off to 0.8.
+Changed KNIGHT(Paladin)  from  to Knight.
+Changed KNIGHT(Paladin) Cost in gold: from Off to 8.
+Changed KNIGHT(Paladin) Defense: from Off to 18.
+Changed KNIGHT(Paladin) Max hit points: from Off to 320.
+Changed KNIGHT(Paladin) Color: from Off to Player.
+Changed KNIGHT(Paladin) Proper name: from Off to Knight.
+Changed KNIGHT(Paladin) Iron upkeep: from Off to 1.
+Changed KNIGHT(Paladin) Mana upkeep: from Off to 1.
+Changed KNIGHT(Paladin) Stone upkeep: from Off to 0.
+Changed KNIGHT(Paladin) Wood upkeep: from Off to 0.
+Changed KNIGHT(Paladin) Spell 0: from Off to None.
+Changed KNIGHT(Paladin) Spell 1: from Off to None.
+Changed KNIGHT(Paladin) Spell 0: from Off to None.
+Changed KNIGHT(Paladin) Spell 1: from Off to None.
+Changed KNIGHT(Paladin) Spell 0: from Off to None.
+Changed KNIGHT(Paladin) Spell 1: from Off to None.
+Changed KNIGHT(Paladin) Spell 0: from Off to None.
+Changed KNIGHT(Paladin) Spell 1: from Off to None.
+Changed KNIGHT(Paladin) CAUSE_MAGIC_DAMAGE from Off to 1.
+Changed KNIGHT(Paladin) MOVEMENT_BONUS from Off to 1.1.
+Changed KNIGHT(Paladin) VISUAL_RANGE_BONUS from Off to 1.1.
+Changed KNIGHT(Paladin) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed KNIGHT(Paladin) Banner: from  to 19.
+Changed KNIGHT(Paladin) Captain: from  to Captain.
+Changed KNIGHT(Paladin) Description: from Off to Knights are powerful warriors descended from an ancient order of Mareten nobility. Ages ago, the Knights traveled the land by starlight, channeling powerful and ancient magics to clear the skies, revealing the path to their destinies. The remnants of the Knight's order have now settled in Mareten strongholds, in astrology halls where they provide ancient knowledge to the fight against the shadow. One day, they shall return to the lands and open the skies..
+Changed KNIGHT(Paladin) Move: from Off to 20.
+Changed KNIGHT(Paladin) Type: from Off to Front.
+Changed KNIGHT(Paladin) Walk distance: from Off to 0.85.
+Changed PALADIN(Paladin) Defense: from 12 to 13.
+Changed PALADIN(Paladin) Max hit points: from 280 to 340.
+Changed RANGER(Ranger) Damage: from 34 to 42.
+Changed RANGER(Ranger) Max hit points: from 200 to 260.
+Changed RANGER(Ranger) MOVEMENT_BONUS from Off to 1.1.
+Changed SHADOW_DEMON(Shadow Demon) DAMAGE_TAKEN_FROM_KHALDUNITE from 1.5 to 1.25.
+Changed SHADOW_DEMON(Shadow Demon) IGNORE_TERRAIN_BONUS from 1 to Off.
+Changed SHADOW_DEMON(Shadow Demon) Defense: from 10 to 12.
+Changed SHADOW_DEMON(Shadow Demon) Max Mana: from 50 to 60.
+Changed SHADOW_DEMON(Shadow Demon) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Type: from Off to Melee.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Damage: from Off to 26.
+Changed SHADOW_DEMONFRONT(Shadow Demon) DamageType: from Off to Normal.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Morale Damage: from Off to 0.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Mor. Dmg Type: from Off to Normal.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Reload Time: from Off to 0.5.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Anim: from Off to 1.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Type: from Off to Cast.
+Changed SHADOW_DEMONFRONT(Shadow Demon) DamageType: from Off to Normal.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Morale Damage: from Off to 0.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Mor. Dmg Type: from Off to Normal.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Reload Time: from Off to 3.
+Changed SHADOW_DEMONFRONT(Shadow Demon) ExceptFaction: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) OnlyFaction: from Off to Ceyah.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Quarry from Off to On.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Race: from Off to Any.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Tech: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Control zone: from Off to 3.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Entrenchment: from Off to 1.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Morale: from Off to 35.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Visual range: from Off to 8.
+Changed SHADOW_DEMONFRONT(Shadow Demon)  from  to Night Demon.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Cost in gold: from Off to 8.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Defense: from Off to 12.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Max hit points: from Off to 200.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Color: from Off to Player.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Proper name: from Off to Night Demon.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Iron upkeep: from Off to 1.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Mana upkeep: from Off to 0.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Stone upkeep: from Off to 2.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Wood upkeep: from Off to 0.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Regen: from Off to 0.5.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Max Mana: from Off to 50.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 0: from Off to Summon Shadelings.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 1: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 0: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 1: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 0: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 1: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 0: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Spell 1: from Off to None.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Banner: from  to 22.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Captain: from  to Shadow_captain.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Description: from Off to Night Demons are vile creatures that dwell in shadow,  drawn out from the night to serve the Dark Master. .
+Changed SHADOW_DEMONFRONT(Shadow Demon) Move: from Off to 30.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Type: from Off to Front.
+Changed SHADOW_DEMONFRONT(Shadow Demon) Walk distance: from Off to 0.85.
+Changed SORCERESS(Sorceress) Mana upkeep: from 3 to 2.
+Changed SORCERESS(Sorceress) Wood upkeep: from 0 to 1.
+Changed WARMAGE(Magician) Mana upkeep: from 3 to 2.
+Changed WARMAGE(Magician) Wood upkeep: from 0 to 1.
+Changed WIZARD(Wizard) Mana upkeep: from 3 to 2.
+Changed WIZARD(Wizard) Wood upkeep: from 0 to 1.
+
+Version 0.0.0.72:
+Changed ARCHMAGE(Archmage) Regen: from 5 to 3.
+Changed CONJUROR(Conjuror) Regen: from 5 to 4.
+Changed SORCERER(Sorcerer) Regen: from 5 to 3.
+Changed WARLOCK(Warlock) Regen: from 5 to 2.
+
+Version 0.0.0.71:
+Changed ARCHERC(Man at Arms) Cost in gold: from 10 to 5.
+Changed CATAPHRACT(Cataphract) Cost in gold: from 10 to 5.
+Changed DREAD_KNIGHT(Dread Knight) MOVEMENT_BONUS from 1.2 to 1.1.
+Changed DREAD_KNIGHT(Dread Knight) REVERSE_DAMAGE_WHEN_HIT from 4 to 3.
+Changed GHOST(Ghost) Damage: from 10 to 8.
+Changed GHOST(Ghost) DAMAGE_TAKEN_FROM_HOLY from Off to 2.
+Changed GHOST(Ghost) DAMAGE_TAKEN_FROM_KHALDUNITE from 1.5 to 2.
+Changed GHOST(Ghost) Cost in gold: from 10 to 5.
+Changed GHOST(Ghost) Max hit points: from 100 to 90.
+
+Version 0.0.0.70:
+Changed GAURI_HAMMER(Gauri Hammer) Max hit points: from 3000 to 300.
+
+Version 0.0.0.69:
+Changed SHADOW_BEAST(Shadow Beast) DAMAGE_TAKEN_FROM_KHALDUNITE from 1.5 to 1.25.
+Changed SHADOW_BEAST2(Night Beast) DAMAGE_TAKEN_FROM_KHALDUNITE from 1.5 to Off.
+Changed SHADOW_MILITIA(Shadow Militia) DAMAGE_TAKEN_FROM_KHALDUNITE from 1.5 to Off.
+Changed SKELETON(Skeleton Warrior) DAMAGE_TAKEN_FROM_HOLY from 2 to 1.5.
+Changed UNDEAD_MILITIA(Undead Militia) DAMAGE_TAKEN_FROM_HOLY from 2 to 1.25.
+Changed UNDEAD_MILITIA(Undead Militia) Max hit points: from 200 to 210.
+Changed ZOMBIE(Zombie) DAMAGE_TAKEN_FROM_HOLY from 2 to 1.5.
+Changed ZOMBIE(Zombie) Max hit points: from 200 to 220.
+
+Version 0.0.0.68:
+Changed ARCHERC(Man at Arms) Defense: from 14 to 12.
+Changed CROSSBOWMAN2(Archer of the Eyes) Damage: from 64 to 56.
+Changed CULTIST(Cultist) DAMAGE_TAKEN_FROM_RANGED from Off to 0.65.
+Changed CULTIST(Cultist) DEFENSE_BONUS_VS_ARCHER from 4 to Off.
+Changed DISCIPLE(Disciple) DAMAGE_TAKEN_FROM_RANGED from 0.75 to 0.65.
+Changed DISCIPLE(Disciple) Defense: from 14 to 12.
+Changed DISCIPLEMONK(Monk) DAMAGE_TAKEN_FROM_RANGED from 0.75 to 0.65.
+Changed DISCIPLEMONK(Monk) Defense: from 14 to 12.
+
+Version 0.0.0.67:
+Changed DISCIPLE(Disciple) Defense: from 10 to 14.
+Changed DISCIPLEMONK(Monk) DAMAGE_TAKEN_FROM_RANGED from Off to 0.75.
+Changed DISCIPLEMONK(Monk) Defense: from 6 to 14.
+Changed DISCIPLEMONK(Monk) Max hit points: from 300 to 340.
+
+Version 0.0.0.66:
+Changed GOLEM2(Golem Warrior) Cost in gold: from 10 to 6.
+Changed GOLEM2(Golem Warrior) Stone upkeep: from 2 to 1.
+
+Version 0.0.0.65:
+Changed ARCHER_SUPPORT(Hunter) Damage: from 28 to 26.
+Changed ARCHER_SUPPORT(Hunter) VISUAL_RANGE_BONUS from Off to 1.1.
+
+Version 0.0.0.64:
+Changed DISCIPLE(Disciple) ATTACK_BONUS_TO_ARCHER from Off to 2.
+Changed DISCIPLE(Disciple) DAMAGE_TAKEN_FROM_RANGED from Off to 0.75.
+Changed DISCIPLE(Disciple) Defense: from 6 to 10.
+Changed DISCIPLE(Disciple) Max hit points: from 280 to 320.
+
+Version 0.0.0.63:
+Changed ZEALOT(Zealot) Regen: from 3 to 2.
+
+Version 0.0.0.62:
+Changed ARCHERC(Man at Arms) Reload Time: from 3 to 4.
+Changed DRAGOON(Dragoon) REVERSE_DAMAGE_WHEN_HIT from 18 to 6.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_ARCHER from 2 to 4.
+Changed LANCER(Lancer) Max hit points: from 260 to 280.
+Changed SCOUT(Scout) ATTACK_BONUS_TO_ARCHER from 3 to 4.
+
+Version 0.0.0.61:
+Changed CROSSBOWMAN2(Archer of the Eyes) Cost in gold: from 10 to 15.
+Changed CROSSBOWMAN2(Archer of the Eyes) HIT_POINTS_BONUS from 1.1 to 1.05.
+Changed CROSSBOWMAN2(Archer of the Eyes) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+
+Version 0.0.0.60:
+Changed ARCHERC(Man at Arms) Damage: from 24 to 20.
+Changed CATAPHRACT(Cataphract) DAMAGE_TAKEN_FROM_RANGED from Off to 0.75.
+Changed DRAGOON(Dragoon) DAMAGE_TAKEN_FROM_RANGED from Off to 0.75.
+Changed DRAUGA_BEASTRIDER(Beast Rider) DAMAGE_TAKEN_FROM_RANGED from Off to 0.5.
+Changed GAURI_HAMMER(Gauri Hammer) DAMAGE_TAKEN_FROM_RANGED from Off to 0.5.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_ARCHER from Off to 2.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_ARCHER from 2 to 3.
+Changed LANCER(Lancer) DAMAGE_TAKEN_FROM_RANGED from Off to 0.75.
+Changed SCOUT(Scout) ATTACK_BONUS_TO_ARCHER from Off to 3.
+
+Version 0.0.0.59:
+Changed ARCHERC(Man at Arms) Damage: from 26 to 24.
+Changed ARCHERC(Man at Arms) Reload Time: from 2 to 3.
+Changed ARCHERC(Man at Arms) Damage: from 24 to 22.
+Changed ARCHERC(Man at Arms) Entrenchment: from 1.5 to 1.
+Changed ARCHERC(Man at Arms) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed ARCHERC(Man at Arms) ATTACK_BONUS_TO_ROUTED from Off to -4.
+Changed ARCHERC(Man at Arms) DAMAGE_TAKEN_FROM_RANGED from Off to 1.25.
+Changed ARCHERC(Man at Arms) Cost in gold: from 6 to 10.
+Changed ARCHERC(Man at Arms) Defense: from 16 to 14.
+Changed CROSSBOWMAN2(Archer of the Eyes) Max hit points: from 210 to 280.
+Changed CROSSBOWMAN2(Archer of the Eyes) ATTACK_BONUS_TO_ANY from Off to -1.
+
+Version 0.0.0.58:
+Changed ARCHERC(Man at Arms) Barracks from Off to On.
+Changed ARCHERC(Man at Arms) IronMarket from On to Off.
+Changed ARCHERC(Man at Arms) Morale: from 35 to 40.
+Changed ARCHERC(Man at Arms) Move: from 16 to 18.
+Changed CATAPHRACT(Cataphract) Defense: from 14 to 16.
+Changed CATAPHRACT(Cataphract) Regen: from 1 to 2.
+Changed CAVALIER(Cavalier) Defense: from 12 to 16.
+Changed DRAGOON(Dragoon) Damage: from 28 to 18.
+Changed DRAGOON(Dragoon) Morale: from 35 to 40.
+Changed DRAGOON(Dragoon) REVERSE_DAMAGE_WHEN_HIT from Off to 18.
+Changed DRAGOON(Dragoon) Defense: from 14 to 16.
+Changed DRAGOON(Dragoon) Max hit points: from 300 to 320.
+Changed DRAGOON(Dragoon) ATTACK_BONUS_TO_ANY from Off to 3.
+Changed DRAGOON(Dragoon) Description: from Dragoons are the heavy cavalry elements of the Mareten. They are well armored, and even better armed. to Dragoons are the heavy cavalry elements of the Mareten. They are well armored, and even better armed. .
+Changed GHOST(Ghost) Damage: from 16 to 10.
+Changed GHOST(Ghost) Defense: from 30 to 90.
+Changed GHOST(Ghost) Move: from 16 to 22.
+Changed SHADOW_KNIGHT(Shadow Knight) Damage: from 24 to 22.
+
+Version 0.0.0.57:
+Changed Components(Garrison) Gold Production: from  to -4.
+Changed Components(Garrison) Wood Production: from  to 8.
+Changed Components(Quarry) Wood Production: from  to 2.
+
+Version 0.0.0.56:
+
+Version 0.0.0.55:
+Changed CATAPHRACT(Fanatic) Type: from Off to Melee.
+Changed CATAPHRACT(Fanatic) Damage: from Off to 18.
+Changed CATAPHRACT(Fanatic) DamageType: from Off to Normal.
+Changed CATAPHRACT(Fanatic) Morale Damage: from Off to 0.
+Changed CATAPHRACT(Fanatic) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT(Fanatic) Reload Time: from Off to 0.5.
+Changed CATAPHRACT(Fanatic) Anim: from Off to 0.
+Changed CATAPHRACT(Fanatic) Type: from Off to Cast.
+Changed CATAPHRACT(Fanatic) DamageType: from Off to Normal.
+Changed CATAPHRACT(Fanatic) Morale Damage: from Off to 0.
+Changed CATAPHRACT(Fanatic) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT(Fanatic) Reload Time: from Off to 3.
+Changed CATAPHRACT(Fanatic) Barracks from Off to On.
+Changed CATAPHRACT(Fanatic) Blacksmith from On to Off.
+Changed CATAPHRACT(Fanatic) ExceptFaction: from Off to None.
+Changed CATAPHRACT(Fanatic) Library from On to Off.
+Changed CATAPHRACT(Fanatic) Nightbringers from On to Off.
+Changed CATAPHRACT(Fanatic) OnlyFaction: from Off to Royalist.
+Changed CATAPHRACT(Fanatic) Race: from Off to Mareten.
+Changed CATAPHRACT(Fanatic) Tech: from Off to None.
+Changed CATAPHRACT(Fanatic) Woodmill from Off to On.
+Changed CATAPHRACT(Fanatic) Control zone: from Off to 3.
+Changed CATAPHRACT(Fanatic) Entrenchment: from Off to 1.
+Changed CATAPHRACT(Fanatic) Morale: from Off to 40.
+Changed CATAPHRACT(Fanatic) Visual range: from Off to 8.
+Changed CATAPHRACT(Fanatic)  from  to Cataphract.
+Changed CATAPHRACT(Fanatic) Cost in gold: from Off to 10.
+Changed CATAPHRACT(Fanatic) Defense: from Off to 14.
+Changed CATAPHRACT(Fanatic) Max hit points: from Off to 300.
+Changed CATAPHRACT(Fanatic) Color: from Off to Player.
+Changed CATAPHRACT(Fanatic) Proper name: from Off to Cataphract.
+Changed CATAPHRACT(Fanatic) Iron upkeep: from Off to 0.
+Changed CATAPHRACT(Fanatic) Mana upkeep: from Off to 0.
+Changed CATAPHRACT(Fanatic) Stone upkeep: from Off to 0.
+Changed CATAPHRACT(Fanatic) Wood upkeep: from Off to 3.
+Changed CATAPHRACT(Fanatic) Regen: from Off to 1.
+Changed CATAPHRACT(Fanatic) Max Mana: from Off to 50.
+Changed CATAPHRACT(Fanatic) Spell 0: from Off to Webbing.
+Changed CATAPHRACT(Fanatic) Spell 1: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 0: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 1: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 0: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 1: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 0: from Off to None.
+Changed CATAPHRACT(Fanatic) Spell 1: from Off to None.
+Changed CATAPHRACT(Fanatic) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed CATAPHRACT(Fanatic) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed CATAPHRACT(Fanatic) Banner: from  to 9.
+Changed CATAPHRACT(Fanatic) Captain: from  to Captain.
+Changed CATAPHRACT(Fanatic) Description: from Off to Cataphracts use nets to ensare their enemies as they charge into combat. .
+Changed CATAPHRACT(Fanatic) Move: from Off to 28.
+Changed CATAPHRACT(Fanatic) Type: from Off to Front.
+Changed CATAPHRACT(Fanatic) Walk distance: from Off to 0.85.
+Changed FANATIC(Fanatic)  from  to Fanatic.
+
+Version 0.0.0.54:
+Changed CATAPHRACT2(Ranger) Type: from Off to Melee.
+Changed CATAPHRACT2(Ranger) Damage: from Off to 18.
+Changed CATAPHRACT2(Ranger) DamageType: from Off to Normal.
+Changed CATAPHRACT2(Ranger) Morale Damage: from Off to 0.
+Changed CATAPHRACT2(Ranger) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT2(Ranger) Reload Time: from Off to 0.5.
+Changed CATAPHRACT2(Ranger) Type: from Off to Cast.
+Changed CATAPHRACT2(Ranger) Damage: from Off to 22.
+Changed CATAPHRACT2(Ranger) DamageType: from Off to Khaldunite.
+Changed CATAPHRACT2(Ranger) Morale Damage: from Off to 0.
+Changed CATAPHRACT2(Ranger) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT2(Ranger) Reload Time: from Off to 0.5.
+Changed CATAPHRACT2(Ranger) Barracks from Off to On.
+Changed CATAPHRACT2(Ranger) ExceptFaction: from Off to None.
+Changed CATAPHRACT2(Ranger) Library from On to Off.
+Changed CATAPHRACT2(Ranger) OnlyFaction: from Off to Royalist.
+Changed CATAPHRACT2(Ranger) Race: from Off to Mareten.
+Changed CATAPHRACT2(Ranger) Tech: from Off to None.
+Changed CATAPHRACT2(Ranger) Control zone: from Off to 3.
+Changed CATAPHRACT2(Ranger) Entrenchment: from Off to 1.
+Changed CATAPHRACT2(Ranger) Morale: from Off to 40.
+Changed CATAPHRACT2(Ranger) Visual range: from Off to 8.
+Changed CATAPHRACT2(Ranger)  from  to Cataphract.
+Changed CATAPHRACT2(Ranger) Cost in gold: from Off to 10.
+Changed CATAPHRACT2(Ranger) Defense: from Off to 14.
+Changed CATAPHRACT2(Ranger) Max hit points: from Off to 300.
+Changed CATAPHRACT2(Ranger) Color: from Off to Gold.
+Changed CATAPHRACT2(Ranger) Proper name: from Off to Cataphract.
+Changed CATAPHRACT2(Ranger) Iron upkeep: from Off to 0.
+Changed CATAPHRACT2(Ranger) Mana upkeep: from Off to 0.
+Changed CATAPHRACT2(Ranger) Stone upkeep: from Off to 0.
+Changed CATAPHRACT2(Ranger) Wood upkeep: from Off to 3.
+Changed CATAPHRACT2(Ranger) Regen: from  to 1.
+Changed CATAPHRACT2(Ranger) Max Mana: from  to 50.
+Changed CATAPHRACT2(Ranger) Spell 0: from Off to Webbing.
+Changed CATAPHRACT2(Ranger) Spell 1: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 0: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 1: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 0: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 1: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 0: from Off to None.
+Changed CATAPHRACT2(Ranger) Spell 1: from Off to None.
+Changed CATAPHRACT2(Ranger) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed CATAPHRACT2(Ranger) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed CATAPHRACT2(Ranger) Captain: from  to Captain.
+Changed CATAPHRACT2(Ranger) Description: from Off to Cataphracts are specially trained troops which use nets to ensare their enemies..
+Changed CATAPHRACT2(Ranger) Move: from Off to 28.
+Changed CATAPHRACT2(Ranger) Type: from Off to Front.
+Changed CATAPHRACT2(Ranger) Walk distance: from Off to 0.85.
+
+Version 0.0.0.53:
+Changed CATAPHRACT(Cataphract) Anim: from  to 0.
+Changed CATAPHRACT(Cataphract) Anim: from  to 0.
+Changed CATAPHRACT(Cataphract) Regen: from  to 1.
+Changed CATAPHRACT(Cataphract) Max Mana: from  to 50.
+Changed CATAPHRACT(Cataphract) Spell 0: from None to Webbing.
+
+Version 0.0.0.52:
+Changed ARCHERC(Man at Arms) Damage: from 22 to 24.
+Changed ARCHERC(Man at Arms) ATTACK_BONUS_TO_MOUNTED from -6 to Off.
+Changed ARCHERC(Man at Arms) DEFENSE_BONUS_VS_MOUNTED from Off to -4.
+Changed ARCHERC(Man at Arms) Cost in gold: from 10 to 6.
+Changed ARCHERC(Man at Arms) Max hit points: from 240 to 260.
+Changed CATAPHRACT(Cataphract) Regen: from  to 1.
+Changed CATAPHRACT(Cataphract) Max Mana: from  to 50.
+Changed CATAPHRACT(Cataphract) Spell 0: from None to Webbing.
+Changed GHOST(Ghost) Max hit points: from 150 to 100.
+
+Version 0.0.0.51:
+Changed CATAPHRACT(Dragoon) Type: from Off to Melee.
+Changed CATAPHRACT(Dragoon) Damage: from Off to 18.
+Changed CATAPHRACT(Dragoon) DamageType: from Off to Normal.
+Changed CATAPHRACT(Dragoon) Morale Damage: from Off to 0.
+Changed CATAPHRACT(Dragoon) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT(Dragoon) Reload Time: from Off to 0.5.
+Changed CATAPHRACT(Dragoon) Type: from Off to Cast.
+Changed CATAPHRACT(Dragoon) DamageType: from Off to 0.
+Changed CATAPHRACT(Dragoon) Morale Damage: from Off to 0.
+Changed CATAPHRACT(Dragoon) Mor. Dmg Type: from Off to Normal.
+Changed CATAPHRACT(Dragoon) Reload Time: from Off to 0.
+Changed CATAPHRACT(Dragoon) ArmoryGuild from On to Off.
+Changed CATAPHRACT(Dragoon) ExceptFaction: from Off to None.
+Changed CATAPHRACT(Dragoon) OnlyFaction: from Off to Royalist.
+Changed CATAPHRACT(Dragoon) Race: from Off to Mareten.
+Changed CATAPHRACT(Dragoon) Tech: from Off to None.
+Changed CATAPHRACT(Dragoon) Control zone: from Off to 4.
+Changed CATAPHRACT(Dragoon) Entrenchment: from Off to 5.
+Changed CATAPHRACT(Dragoon) Morale: from Off to 40.
+Changed CATAPHRACT(Dragoon) Visual range: from Off to 8.
+Changed CATAPHRACT(Dragoon) ATTACK_BONUS_TO_MOUNTED from Off to -4.
+Changed CATAPHRACT(Dragoon)  from  to Cataphract.
+Changed CATAPHRACT(Dragoon) Cost in gold: from Off to 10.
+Changed CATAPHRACT(Dragoon) Defense: from Off to 14.
+Changed CATAPHRACT(Dragoon) Max hit points: from Off to 300.
+Changed CATAPHRACT(Dragoon) Color: from Off to Silver.
+Changed CATAPHRACT(Dragoon) Proper name: from Off to Cataphract.
+Changed CATAPHRACT(Dragoon) Iron upkeep: from Off to 0.
+Changed CATAPHRACT(Dragoon) Mana upkeep: from Off to 0.
+Changed CATAPHRACT(Dragoon) Stone upkeep: from Off to 0.
+Changed CATAPHRACT(Dragoon) Wood upkeep: from Off to 3.
+Changed CATAPHRACT(Dragoon) Regen: from  to 1.
+Changed CATAPHRACT(Dragoon) Max Mana: from  to 50.
+Changed CATAPHRACT(Dragoon) Spell 0: from Off to Webbing.
+Changed CATAPHRACT(Dragoon) Spell 1: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 0: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 1: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 0: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 1: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 0: from Off to None.
+Changed CATAPHRACT(Dragoon) Spell 1: from Off to None.
+Changed CATAPHRACT(Dragoon) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed CATAPHRACT(Dragoon) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed CATAPHRACT(Dragoon) Banner: from Off to 9.
+Changed CATAPHRACT(Dragoon) Captain: from Off to cavalry_captain.
+Changed CATAPHRACT(Dragoon) Description: from Off to Cataphracts are specially trained light cavalry that the Royalists sometimes field in battle. They ensare their enemies in nets and then charge at them..
+Changed CATAPHRACT(Dragoon) Move: from Off to 28.
+Changed CATAPHRACT(Dragoon) Type: from Off to Front.
+Changed CATAPHRACT(Dragoon) Walk distance: from Off to 1.4.
+Changed GHOST(Ghost) Color: from Player to Gold.
+
+Version 0.0.0.50:
+Changed Cataphract(Cataphract) OnlyFaction: from Any to Royalist.
+Changed Cataphract(Cataphract) Race: from Any to Mareten.
+
+Version 0.0.0.49:
+Changed Cataphract(Cavalry Captain) Type: from Off to Melee.
+Changed Cataphract(Cavalry Captain) Damage: from Off to 18.
+Changed Cataphract(Cavalry Captain) DamageType: from Off to Normal.
+Changed Cataphract(Cavalry Captain) Morale Damage: from Off to 0.
+Changed Cataphract(Cavalry Captain) Mor. Dmg Type: from Off to Normal.
+Changed Cataphract(Cavalry Captain) Reload Time: from Off to 0.5.
+Changed Cataphract(Cavalry Captain) Type: from Off to Cast.
+Changed Cataphract(Cavalry Captain) DamageType: from Off to 0.
+Changed Cataphract(Cavalry Captain) Morale Damage: from Off to 0.
+Changed Cataphract(Cavalry Captain) Mor. Dmg Type: from Off to Normal.
+Changed Cataphract(Cavalry Captain) Reload Time: from Off to 0.
+Changed Cataphract(Cavalry Captain) ExceptFaction: from Off to None.
+Changed Cataphract(Cavalry Captain) OnlyFaction: from Off to Royalist.
+Changed Cataphract(Cavalry Captain) Race: from Off to Mareten.
+Changed Cataphract(Cavalry Captain) Tech: from Off to None.
+Changed Cataphract(Cavalry Captain) Woodmill from Off to On.
+Changed Cataphract(Cavalry Captain) Control zone: from Off to 3.
+Changed Cataphract(Cavalry Captain) Entrenchment: from Off to 1.
+Changed Cataphract(Cavalry Captain) Morale: from Off to 35.
+Changed Cataphract(Cavalry Captain) Visual range: from Off to 8.
+Changed Cataphract(Cavalry Captain) ATTACK_BONUS_TO_MOUNTED from Off to -4.
+Changed Cataphract(Cavalry Captain)  from  to Cataphract.
+Changed Cataphract(Cavalry Captain) Cost in gold: from Off to 10.
+Changed Cataphract(Cavalry Captain) Defense: from Off to 12.
+Changed Cataphract(Cavalry Captain) Max hit points: from Off to 300.
+Changed Cataphract(Cavalry Captain) Color: from Off to Player.
+Changed Cataphract(Cavalry Captain) Proper name: from Off to Cataphract.
+Changed Cataphract(Cavalry Captain) Iron upkeep: from Off to 0.
+Changed Cataphract(Cavalry Captain) Mana upkeep: from Off to 0.
+Changed Cataphract(Cavalry Captain) Stone upkeep: from Off to 0.
+Changed Cataphract(Cavalry Captain) Wood upkeep: from Off to 3.
+Changed Cataphract(Cavalry Captain) Regen: from  to 1.
+Changed Cataphract(Cavalry Captain) Max Mana: from  to 50.
+Changed Cataphract(Cavalry Captain) Spell 0: from Off to Webbing.
+Changed Cataphract(Cavalry Captain) Spell 1: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 0: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 1: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 0: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 1: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 0: from Off to None.
+Changed Cataphract(Cavalry Captain) Spell 1: from Off to None.
+Changed Cataphract(Cavalry Captain) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed Cataphract(Cavalry Captain) RESUPPLY_RATE_BONUS from Off to 1.0.
+Changed Cataphract(Cavalry Captain) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed Cataphract(Cavalry Captain) Banner: from  to 9.
+Changed Cataphract(Cavalry Captain) Captain: from  to Cavalry_captain.
+Changed Cataphract(Cavalry Captain) Description: from Off to Cataphracts are light cavalry units sometimes fielded by Royalist armies which ensnare their enemies in nets before charging into battle. Cataphracts are great  at disrupting and stalling the enemy's assault, but can't deal out the heavy damage of more conventional units, and they are not effective against other cavalry units..
+Changed Cataphract(Cavalry Captain) Move: from Off to 28.
+Changed Cataphract(Cavalry Captain) Type: from Off to Front.
+Changed Cataphract(Cavalry Captain) Walk distance: from Off to 1.4.
+Changed CULTIST(Cultist) Banner: from  to 23.
+Changed DRAGOON(Dragoon) Defense: from 12 to 14.
+Changed GHOST(Wraith) Type: from Off to Melee.
+Changed GHOST(Wraith) Damage: from Off to 16.
+Changed GHOST(Wraith) DamageType: from Off to Magic.
+Changed GHOST(Wraith) Morale Damage: from Off to 0.1.
+Changed GHOST(Wraith) Mor. Dmg Type: from Off to Unholy.
+Changed GHOST(Wraith) Reload Time: from Off to 0.
+Changed GHOST(Wraith) Type: from Off to Cast.
+Changed GHOST(Wraith) DamageType: from Off to Normal.
+Changed GHOST(Wraith) Morale Damage: from Off to 0.
+Changed GHOST(Wraith) Mor. Dmg Type: from Off to Normal.
+Changed GHOST(Wraith) Reload Time: from Off to 3.
+Changed GHOST(Wraith) Blacksmith from On to Off.
+Changed GHOST(Wraith) ExceptFaction: from Off to None.
+Changed GHOST(Wraith) OnlyFaction: from Off to Ceyah.
+Changed GHOST(Wraith) Race: from Off to Any.
+Changed GHOST(Wraith) Tech: from Off to None.
+Changed GHOST(Wraith) Control zone: from Off to 4.
+Changed GHOST(Wraith) Entrenchment: from Off to 1.
+Changed GHOST(Wraith) Morale: from Off to 100.
+Changed GHOST(Wraith) Visual range: from Off to 5.
+Changed GHOST(Wraith)  from  to Ghost.
+Changed GHOST(Wraith) Cost in gold: from Off to 10.
+Changed GHOST(Wraith) Defense: from Off to 30.
+Changed GHOST(Wraith) Max hit points: from Off to 150.
+Changed GHOST(Wraith) Color: from Off to Player.
+Changed GHOST(Wraith) Proper name: from Off to Ghost.
+Changed GHOST(Wraith) Iron upkeep: from Off to 0.
+Changed GHOST(Wraith) Mana upkeep: from Off to 0.
+Changed GHOST(Wraith) Stone upkeep: from Off to 0.
+Changed GHOST(Wraith) Wood upkeep: from Off to 3.
+Changed GHOST(Wraith) Regen: from Off to 1.
+Changed GHOST(Wraith) Max Mana: from Off to 60.
+Changed GHOST(Wraith) Spell 0: from Off to Spectral Form.
+Changed GHOST(Wraith) Spell 1: from Off to None.
+Changed GHOST(Wraith) Spell 0: from Off to None.
+Changed GHOST(Wraith) Spell 1: from Off to None.
+Changed GHOST(Wraith) Spell 0: from Off to None.
+Changed GHOST(Wraith) Spell 1: from Off to None.
+Changed GHOST(Wraith) Spell 0: from Off to None.
+Changed GHOST(Wraith) Spell 1: from Off to None.
+Changed GHOST(Wraith) ATTACK_BONUS_TO_ROUTED from Off to 4.
+Changed GHOST(Wraith) Banner: from Off to 23.
+Changed GHOST(Wraith) Captain: from Off to Undead_captain.
+Changed GHOST(Wraith) Description: from Off to Ghosts are horrific visions of another realm. Their screams pass through the darkness of night and into the hearts of mortal men. Ghosts may be struck away easily, but they will forever haunt their victims..
+Changed GHOST(Wraith) Move: from Off to 16.
+Changed GHOST(Wraith) Type: from Off to Front.
+Changed GHOST(Wraith) Walk distance: from Off to 0.85.
+Changed HUSSAR(Hussar) Damage: from 18 to 19.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_ARCHER from Off to 2.
+Changed LICH(Lich) ATTACK_BONUS_TO_NONSHADOW from Off to 2.
+Changed LICH(Lich) MOVEMENT_BONUS from Off to 1.1.
+Changed LICH(Lich) REVERSE_DAMAGE_WHEN_HIT from Off to 3.
+Changed LICH(Lich) Description: from The lich is a special form of Wraith, even more terrifying in power and capacity for evil. They have an innate ability to see beyond normal reality, increasing their awareness of their surroundings and enabling their company to increase its zone of control. to The lich is a special form of Wraith, even more terrifying in power and capacity for evil. They have an innate ability to see beyond normal reality, increasing their awareness of their surroundings and enabling their company to increase its zone of control. Liches also infuse their companies with dark energies which hurt enemies in battle..
+Changed NECROMANCER(Necromancer) Max hit points: from 130 to 120.
+Changed NECROMANCER(Necromancer) Regen: from 4 to 3.
+Changed NECROMANCER(Necromancer) MELEE_UNHOLY_DAMAGE from Off to 2.
+Changed SHADOW_DEMON(Shadow Demon) IGNORE_TERRAIN_BONUS from Off to 1.
+Changed WARMAGE(Magician) Max Mana: from 60 to 70.
+Changed WARMAGE(Magician) MORALE_LOSS_RATE_BONUS from Off to 0.8.
+Changed WARMAGE(Magician) REVERSE_DAMAGE_WHEN_HIT from Off to 3.
+Changed WIZARD(Wizard) Max Mana: from 60 to 70.
+Changed WIZARD(Wizard) MOVEMENT_BONUS from Off to 1.1.
+Changed WIZARD(Wizard) RESUPPLY_RATE_BONUS from Off to 1.0.
+Changed WRAITH(Wraith) DEFENSE_BONUS_VS_ANY from Off to 2.
+
+Version 0.0.0.48:
+Changed ARCHERC(Bowman) Type: from Off to Projectile.
+Changed ARCHERC(Bowman) Damage: from Off to 26.
+Changed ARCHERC(Bowman) DamageType: from Off to Normal.
+Changed ARCHERC(Bowman) Morale Damage: from Off to 0.
+Changed ARCHERC(Bowman) Mor. Dmg Type: from Off to Normal.
+Changed ARCHERC(Bowman) Reload Time: from Off to 2.
+Changed ARCHERC(Bowman) Type: from Off to Melee.
+Changed ARCHERC(Bowman) Damage: from Off to 22.
+Changed ARCHERC(Bowman) DamageType: from Off to Normal.
+Changed ARCHERC(Bowman) Morale Damage: from Off to 0.
+Changed ARCHERC(Bowman) Mor. Dmg Type: from Off to Normal.
+Changed ARCHERC(Bowman) Reload Time: from Off to 0.5.
+Changed ARCHERC(Bowman) ExceptFaction: from Off to None.
+Changed ARCHERC(Bowman) IronMarket from Off to On.
+Changed ARCHERC(Bowman) OnlyFaction: from Off to Council.
+Changed ARCHERC(Bowman) Race: from Off to Mareten.
+Changed ARCHERC(Bowman) Tech: from Off to None.
+Changed ARCHERC(Bowman) Control zone: from Off to 5.
+Changed ARCHERC(Bowman) Entrenchment: from Off to 1.5.
+Changed ARCHERC(Bowman) Morale: from Off to 35.
+Changed ARCHERC(Bowman) Visual range: from Off to 7.
+Changed ARCHERC(Bowman) ATTACK_BONUS_TO_MOUNTED from Off to -6.
+Changed ARCHERC(Bowman)  from  to Man at Arms.
+Changed ARCHERC(Bowman) Cost in gold: from Off to 10.
+Changed ARCHERC(Bowman) Defense: from Off to 16.
+Changed ARCHERC(Bowman) Max hit points: from Off to 240.
+Changed ARCHERC(Bowman) Color: from Off to Silver.
+Changed ARCHERC(Bowman) Proper name: from Off to Man at Arms.
+Changed ARCHERC(Bowman) Iron upkeep: from Off to 0.
+Changed ARCHERC(Bowman) Mana upkeep: from Off to 0.
+Changed ARCHERC(Bowman) Stone upkeep: from Off to 0.
+Changed ARCHERC(Bowman) Wood upkeep: from Off to 3.
+Changed ARCHERC(Bowman) Spell 0: from Off to None.
+Changed ARCHERC(Bowman) Spell 1: from Off to None.
+Changed ARCHERC(Bowman) Spell 0: from Off to None.
+Changed ARCHERC(Bowman) Spell 1: from Off to None.
+Changed ARCHERC(Bowman) Spell 0: from Off to None.
+Changed ARCHERC(Bowman) Spell 1: from Off to None.
+Changed ARCHERC(Bowman) Spell 0: from Off to None.
+Changed ARCHERC(Bowman) Spell 1: from Off to None.
+Changed ARCHERC(Bowman) Banner: from Off to 8.
+Changed ARCHERC(Bowman) Captain: from Off to captain.
+Changed ARCHERC(Bowman) Description: from Off to Men at Arms are the specially trained soldiers that serve as the Council's infantry. Men at Arms are trained in both melee and ranged combat; they combine the support role of an archer with the ability to hold the line in combat..
+Changed ARCHERC(Bowman) Move: from Off to 16.
+Changed ARCHERC(Bowman) Type: from Off to Front.
+Changed ARCHERC(Bowman) Walk distance: from Off to 0.72.
+Changed CROSSBOWMAN(Crossbowman) Defense: from 10 to 12.
+Changed CROSSBOWMAN(Crossbowman) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed CROSSBOWMAN2(Archer of the Eyes) Cost in gold: from 14 to 10.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_ANY from 1 to 2.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_MOUNTED from 1 to 2.
+Changed CROSSBOWMAN2(Archer of the Eyes) ENTRENCHMENT_RATE_BONUS from Off to 1.0.
+Changed CROSSBOWMAN2(Archer of the Eyes) HIT_POINTS_BONUS from Off to 1.1.
+Changed CROSSBOWMAN2(Archer of the Eyes) RELOAD_TIME_BONUS from Off to 1.0.
+Changed TARKAN(Tarkan) Max hit points: from 280 to 300.
+Changed TARKAN(Tarkan) ATTACK_BONUS_TO_ANY from 3 to 4.
+Changed TARKAN(Tarkan) Description: from Tarkans are the elite Lancers that guide Royalist cavalry into battle. Tarkans train their companies to move faster and strike harder, particularly against buildings. to Tarkans are the elite Lancers that guide Royalist cavalry into battle. Tarkans train their companies to move faster and strike harder..
+
+Version 0.0.0.47:
+Changed CULTIST(Cultist) Morale: from 40 to 50.
+Changed CULTIST(Cultist) MORALE_LOSS_RATE_BONUS from 0.5 to Off.
+Changed CULTIST(Cultist) MORALE_LOSS_RATE_BONUS from Off to 0.75.
+
+Version 0.0.0.46:
+Changed CITY_MILITIA(Infantry Militia) Damage: from 26 to 24.
+Changed CITY_MILITIA(Infantry Militia) Defense: from 16 to 14.
+Changed CULTIST(Cultist) MORALE_LOSS_RATE_BONUS from Off to 0.5.
+Changed GRENADIER(Grenadier) MOVEMENT_BONUS from Off to 1.0.
+Changed UNDEAD_MILITIA(Undead Militia) Defense: from 6 to 8.
+
+Version 0.0.0.45:
+Changed CEYAH_CITADEL(Ceyah Citadel) Militia Growth: from 0.1oh an to 0.1.
+Changed CITY_MILITIA(Infantry Militia) Max hit points: from 230 to 220.
+Changed HUSSAR(Hussar) Max hit points: from 280 to 260.
+Changed HUSSAR(Hussar) HIT_POINTS_BONUS from Off to 1.1.
+Changed LANCER(Lancer) Damage: from 20 to 22.
+Changed LANCER(Lancer) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed LANCER(Lancer) ATTACK_BONUS_TO_MOUNTED from Off to 3.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Max Militia: from 16 to 14.
+Changed ROYALIST_CITADEL(Royalist Citadel) Max Militia: from 16 to 14.
+
+Version 0.0.0.44:
+Changed ENGINEER_MINER(Miner) ExceptFaction: from None to Ceyah.
+Changed ENGINEER_MINER(Miner) Race: from Any to Mareten.
+Changed GRENADIER(Grenadier) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed GRENADIER(Grenadier) DEFENSE_BONUS_VS_ARCHER from Off to 2.
+Changed GRENADIER(Grenadier) DEFENSE_BONUS_VS_MOUNTED from 2 to 4.
+Changed GRENADIER(Grenadier) Cost in gold: from 8 to 9.
+Changed GRENADIER(Grenadier) Defense: from 14 to 16.
+Changed OVERSEER(Overseer) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed SHADELING_SCOUT(Shadeling) Max hit points: from 110 to 140.
+Changed SHADOW_BEAST(Shadow Beast) Defense: from 4 to 8.
+Changed SHADOW_BEAST(Shadow Beast) Max hit points: from 310 to 340.
+Changed SHADOW_BEAST2(Night Beast) Max hit points: from 200 to 250.
+Changed SHADOW_KNIGHT(Shadow Knight) Damage: from 22 to 24.
+Changed SHADOW_KNIGHT(Shadow Knight) Defense: from 12 to 16.
+Changed SKELETON(Skeleton Warrior) ATTACK_BONUS_TO_NONSHADOW from Off to 4.
+Changed SKELETON(Skeleton Warrior) Defense: from 12 to 16.
+
+Version 0.0.0.43:
+Changed ENGINEER_MINER(Miner) Type: from None to Build.
+Changed ENGINEER_MINER(Miner) Damage: from 0 to 2.
+Changed ENGINEER_MINER(Miner) Description: from Miners are inexperienced militia brought out of the mines to support armies in battle. With a low deployment cost and useful skills in defense, miners are sometimes relied upon to secure a position quickly. to Miners are inexperienced militia brought out of the mines to support armies in battle. With a low deployment cost and useful skills in defense, miners are sometimes relied upon to secure a position quickly. Miners are capable of building and repairing structures like engineers, but only at an incredibly reduced pace, due to inexperience..
+
+Version 0.0.0.42:
+Changed Components(Garrison) Gold Cost: from 96 to 36.
+Changed Components(Garrison) Sell Price: from 132 to 60.
+Changed CROSSBOWMAN(Crossbowman) Max hit points: from 190 to 200.
+Changed ENGINEER(Engineer) ENTRENCHMENT_RATE_BONUS from .9 to .6.
+Changed ENGINEER_MINER(Engineer) Type: from Off to Melee.
+Changed ENGINEER_MINER(Engineer) Damage: from Off to 17.
+Changed ENGINEER_MINER(Engineer) DamageType: from Off to Normal.
+Changed ENGINEER_MINER(Engineer) Morale Damage: from Off to 0.
+Changed ENGINEER_MINER(Engineer) Mor. Dmg Type: from Off to Normal.
+Changed ENGINEER_MINER(Engineer) Reload Time: from Off to 0.5.
+Changed ENGINEER_MINER(Engineer) Type: from Off to None.
+Changed ENGINEER_MINER(Engineer) Damage: from Off to 0.
+Changed ENGINEER_MINER(Engineer) DamageType: from Off to Normal.
+Changed ENGINEER_MINER(Engineer) Morale Damage: from Off to 0.
+Changed ENGINEER_MINER(Engineer) Mor. Dmg Type: from Off to Normal.
+Changed ENGINEER_MINER(Engineer) Reload Time: from Off to 0.
+Changed ENGINEER_MINER(Engineer) ExceptFaction: from Off to None.
+Changed ENGINEER_MINER(Engineer) OnlyFaction: from Off to Any.
+Changed ENGINEER_MINER(Engineer) Race: from Off to Any.
+Changed ENGINEER_MINER(Engineer) Tech: from Off to None.
+Changed ENGINEER_MINER(Engineer) Control zone: from Off to 4.
+Changed ENGINEER_MINER(Engineer) Entrenchment: from Off to .75.
+Changed ENGINEER_MINER(Engineer) Morale: from Off to 40.
+Changed ENGINEER_MINER(Engineer) Visual range: from Off to 7.
+Changed ENGINEER_MINER(Engineer) ATTACK_BONUS_TO_BUILDING from Off to 6.
+Changed ENGINEER_MINER(Engineer)  from  to Miner.
+Changed ENGINEER_MINER(Engineer) Cost in gold: from Off to 3.
+Changed ENGINEER_MINER(Engineer) Defense: from Off to 7.
+Changed ENGINEER_MINER(Engineer) Max hit points: from Off to 190.
+Changed ENGINEER_MINER(Engineer) Color: from Off to Player.
+Changed ENGINEER_MINER(Engineer) Proper name: from Off to Miner.
+Changed ENGINEER_MINER(Engineer) Iron upkeep: from Off to 0.
+Changed ENGINEER_MINER(Engineer) Mana upkeep: from Off to 0.
+Changed ENGINEER_MINER(Engineer) Stone upkeep: from Off to 1.
+Changed ENGINEER_MINER(Engineer) Wood upkeep: from Off to 0.
+Changed ENGINEER_MINER(Engineer) Spell 0: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 1: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 0: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 1: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 0: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 1: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 0: from Off to None.
+Changed ENGINEER_MINER(Engineer) Spell 1: from Off to None.
+Changed ENGINEER_MINER(Engineer) ENTRENCHMENT_RATE_BONUS from .9 to .7.
+Changed ENGINEER_MINER(Engineer) RESUPPLY_RATE_BONUS from Off to 1.1.
+Changed ENGINEER_MINER(Engineer) ZONE_OF_CONTROL_BONUS from Off to 1.0.
+Changed ENGINEER_MINER(Engineer) Banner: from Off to 12.
+Changed ENGINEER_MINER(Engineer) Captain: from Off to captain.
+Changed ENGINEER_MINER(Engineer) Description: from Off to Miners are inexperienced militia brought out of the mines to support armies in battle. With a low deployment cost and useful skills in defense, miners are sometimes relied upon to secure a position quickly..
+Changed ENGINEER_MINER(Engineer) Move: from Off to 22.
+Changed ENGINEER_MINER(Engineer) Type: from Off to Front.
+Changed ENGINEER_MINER(Engineer) Walk distance: from Off to 0.77.
+Changed HAROUN_ARCHER(Rainbringer) Damage: from 32 to 30.
+Changed HAROUN_ARCHER(Rainbringer) Defense: from 4 to 7.
+Changed HAROUN_ARCHER(Rainbringer) Max hit points: from 140 to 150.
+Changed HORSE_ARCHER(Horse Archer) Damage: from 28 to 24.
+Changed UNDEAD_ARCHER(Bone Bow) Damage: from 30 to 26.
+Changed WINDRIDER(Windrider) Damage: from 32 to 30.
+
+Version 0.0.0.41:
+Changed Components(Garrison) Wood Production: from  to 4.
+
+Version 0.0.0.40:
+Changed ARCHER_MILITIA(Archer Militia) Damage: from 32 to 40.
+Changed ARCHER_MILITIA(Archer Militia) Max hit points: from 140 to 160.
+Changed CITY_MILITIA(Infantry Militia) Damage: from 22 to 26.
+Changed CITY_MILITIA(Infantry Militia) Defense: from 12 to 16.
+Changed CITY_MILITIA(Infantry Militia) Max hit points: from 210 to 230.
+Changed GAURI_ANVIL(Gauri Anvil) Defense: from 14 to 16.
+Changed GAURI_ANVIL(Gauri Anvil) Max hit points: from 220 to 240.
+Changed GAURI_HAMMER(Gauri Hammer) Defense: from 14 to 16.
+Changed GAURI_HAMMER(Gauri Hammer) Max hit points: from 280 to 3000.
+Changed NECROMANCER(Necromancer) RESUPPLY_RATE_BONUS from Off to 1.1.
+Changed RANGER_WEAK(Ranger) Type: from Off to Projectile.
+Changed RANGER_WEAK(Ranger) Damage: from Off to 28.
+Changed RANGER_WEAK(Ranger) DamageType: from Off to Khaldunite.
+Changed RANGER_WEAK(Ranger) Morale Damage: from Off to 0.
+Changed RANGER_WEAK(Ranger) Mor. Dmg Type: from Off to Normal.
+Changed RANGER_WEAK(Ranger) Reload Time: from Off to 1.5.
+Changed RANGER_WEAK(Ranger) Type: from Off to Melee.
+Changed RANGER_WEAK(Ranger) Damage: from Off to 22.
+Changed RANGER_WEAK(Ranger) DamageType: from Off to Khaldunite.
+Changed RANGER_WEAK(Ranger) Morale Damage: from Off to 0.
+Changed RANGER_WEAK(Ranger) Mor. Dmg Type: from Off to Normal.
+Changed RANGER_WEAK(Ranger) Reload Time: from Off to 0.5.
+Changed RANGER_WEAK(Ranger) Barracks from Off to On.
+Changed RANGER_WEAK(Ranger) ExceptFaction: from Off to Ceyah.
+Changed RANGER_WEAK(Ranger) Library from On to Off.
+Changed RANGER_WEAK(Ranger) OnlyFaction: from Off to Any.
+Changed RANGER_WEAK(Ranger) Race: from Off to Any.
+Changed RANGER_WEAK(Ranger) Tech: from Off to None.
+Changed RANGER_WEAK(Ranger) Control zone: from Off to 3.
+Changed RANGER_WEAK(Ranger) Entrenchment: from Off to 1.
+Changed RANGER_WEAK(Ranger) Morale: from Off to 35.
+Changed RANGER_WEAK(Ranger) Visual range: from Off to 8.
+Changed RANGER_WEAK(Ranger)  from  to Tracker.
+Changed RANGER_WEAK(Ranger) Cost in gold: from Off to 8.
+Changed RANGER_WEAK(Ranger) Defense: from Off to 6.
+Changed RANGER_WEAK(Ranger) Max hit points: from Off to 160.
+Changed RANGER_WEAK(Ranger) Color: from Off to Gold.
+Changed RANGER_WEAK(Ranger) Proper name: from Off to Tracker.
+Changed RANGER_WEAK(Ranger) Iron upkeep: from Off to 0.
+Changed RANGER_WEAK(Ranger) Mana upkeep: from Off to 0.
+Changed RANGER_WEAK(Ranger) Stone upkeep: from Off to 0.
+Changed RANGER_WEAK(Ranger) Wood upkeep: from Off to 2.
+Changed RANGER_WEAK(Ranger) Spell 0: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 1: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 0: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 1: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 0: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 1: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 0: from Off to None.
+Changed RANGER_WEAK(Ranger) Spell 1: from Off to None.
+Changed RANGER_WEAK(Ranger) VISUAL_RANGE_BONUS from 1.2 to 1.1.
+Changed RANGER_WEAK(Ranger) Description: from Off to Rangers are members of a secret group of warriors who wield mystical weapons that work as bow and blade. Their skills in the wilderness allow their company to move unhindered by difficult terrain and extend the company's visual range..
+Changed RANGER_WEAK(Ranger) Move: from Off to 34.
+Changed RANGER_WEAK(Ranger) Type: from Off to Support.
+Changed RANGER_WEAK(Ranger) Walk distance: from Off to 0.85.
+Changed SHADOW_BEAST2(Night Beast) Wood upkeep: from 2 to 1.
+Changed SHADOW_BEAST2(Night Beast) Description: from Night Beasts are demonic creatures, less aggressive than Shadow and Void Beasts. to Night Beasts are demonic creatures, though less aggressive than their Shadow Beast and Void Beast cousins..
+Changed SHADOW_MILITIA(Shadow Militia) Damage: from 26 to 30.
+Changed SHADOW_MILITIA(Shadow Militia) Defense: from 6 to 10.
+Changed SHADOW_MILITIA(Shadow Militia) Max hit points: from 280 to 300.
+Changed TARKAN(Tarkan) Damage: from 20 to 26.
+Changed TARKAN(Tarkan) Defense: from 12 to 16.
+Changed ZOMBIE(Zombie) RESUPPLY_RATE_BONUS from Off to 1.2.
+
+Version 0.0.0.39:
+Changed CEYAH_CITY(Ceyah City) Upgrade Cost: from 450 to 500.
+Changed CEYAH_TOWN(Ceyah Town) Upgrade Cost: from 300 to 350.
+Changed COUNCIL_CITY(Council City) Upgrade Cost: from 450 to 500.
+Changed COUNCIL_TOWN(Council Town) Upgrade Cost: from 225 to 275.
+Changed DREAD_KNIGHT(Dread Knight) Iron upkeep: from 1 to 0.
+Changed NATIONALIST_CITY(Nationalist City) Upgrade Cost: from 450 to 500.
+Changed NATIONALIST_TOWN(Nationalist Town) Upgrade Cost: from 350 to 400.
+Changed ROYALIST_CITY(Royalist City) Upgrade Cost: from 450 to 500.
+Changed ROYALIST_TOWN(Royalist Town) Upgrade Cost: from 300 to 350.
+
+Version 0.0.0.38:
+Changed ARCHER(Bowman) Damage: from 32 to 26.
+Changed ARCHER(Bowman) ENTRENCHMENT_RATE_BONUS from Off to 1.1.
+Changed ARCHER(Bowman) MOVEMENT_BONUS from Off to 1.1.
+Changed ARCHER(Bowman) VISUAL_RANGE_BONUS from Off to 1.1.
+Changed BATTLE_PRIEST(Battle Priest) DEFENSE_BONUS_VS_SHADOW from Off to 2.
+Changed CEYAH_CITADEL(Ceyah Citadel) Militia Growth: from 0.05 to 0.1oh an.
+Changed CEYAH_CITY(Ceyah City) Militia Growth: from 0.05 to 0.1.
+Changed CEYAH_TOWN(Ceyah Town) Militia Growth: from 0.05 to 0.1.
+Changed CEYAH_VILLAGE(Ceyah Village) Militia Growth: from 0.05 to 0.1.
+Changed COUNCIL_CITADEL(Council Citadel) Militia Growth: from 0.05 to 0.1.
+Changed COUNCIL_CITY(Council City) Militia Growth: from 0.05 to 0.1.
+Changed COUNCIL_TOWN(Council Town) Militia Growth: from 0.05 to 0.1.
+Changed COUNCIL_VILLAGE(Council Village) Militia Growth: from 0.05 to 0.1.
+Changed CROSSBOWMAN(Crossbowman) Damage: from 54 to 46.
+Changed CROSSBOWMAN2(Archer of the Eyes) Damage: from 70 to 64.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_MOUNTED from Off to 1.
+Changed CULTIST(Cultist) HIT_POINTS_BONUS from Off to 1.1.
+Changed DISCIPLEMONK(Monk) DEFENSE_BONUS_VS_ARCHER from Off to 2.
+Changed DREADLORD(Dreadlord) HIT_POINTS_BONUS from Off to 1.1.
+Changed DREAD_KNIGHT(Dread Knight) REVERSE_DAMAGE_WHEN_HIT from 3 to 4.
+Changed ELITE_ARCHER(Elite Bowman) Damage: from 38 to 32.
+Changed HAROUN_ARCHER(Rainbringer) Damage: from 36 to 32.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Militia Growth: from 0.05 to 0.1.
+Changed NATIONALIST_CITY(Nationalist City) Militia Growth: from 0.05 to 0.1.
+Changed NATIONALIST_TOWN(Nationalist Town) Militia Growth: from 0.05 to 0.1.
+Changed NATIONALIST_VILLAGE(Nationalist Village) Militia Growth: from 0.05 to 0.1.
+Changed PALADIN(Paladin) DEFENSE_BONUS_VS_ANY from 1 to 3.
+Changed ROYALIST_CITADEL(Royalist Citadel) Militia Growth: from 0.05 to 0.1.
+Changed ROYALIST_CITY(Royalist City) Militia Growth: from 0.05 to 0.1.
+Changed ROYALIST_TOWN(Royalist Town) Militia Growth: from 0.05 to 0.1.
+Changed ROYALIST_VILLAGE(Royalist Village) Militia Growth: from 0.05 to 0.1.
+
+Version 0.0.0.37:
+Changed DREAD_KNIGHT(Dread Knight) MOVEMENT_BONUS from 1.1 to 1.2.
+Changed DREAD_KNIGHT(Dread Knight) RESUPPLY_RATE_BONUS from 1.1 to 1.25.
+Changed SKELETON(Skeleton Warrior) DAMAGE_TAKEN_FROM_RANGED from .05 to .50.
+Changed SKELETON(Skeleton Warrior) Defense: from 10 to 12.
+Changed SKELETON(Skeleton Warrior) Max hit points: from 220 to 250.
+
+Version 0.0.0.36:
+Changed DREAD_KNIGHT(Dread Knight) HIT_POINTS_BONUS from Off to 0.9.
+Changed DREAD_KNIGHT(Dread Knight) MOVEMENT_BONUS from Off to 1.1.
+Changed DREAD_KNIGHT(Dread Knight) RELOAD_TIME_BONUS from Off to 1.0.
+Changed DREAD_KNIGHT(Dread Knight) RESUPPLY_RATE_BONUS from Off to 1.1.
+Changed DREAD_KNIGHT(Dread Knight) REVERSE_DAMAGE_WHEN_HIT from Off to 3.
+Changed DREAD_KNIGHT(Dread Knight) ZONE_OF_CONTROL_BONUS from Off to 1.0.
+
+Version 0.0.0.35:
+Changed DREAD_KNIGHT(Dread Knight) HIT_POINTS_BONUS from 0.9 to 0.95.
+
+Version 0.0.0.34:
+Changed DREAD_KNIGHT(Dread Knight) Defense: from 12 to 14.
+Changed DREAD_KNIGHT(Dread Knight) Captain: from undead_captain to None.
+Changed DREAD_KNIGHT(Dread Knight) Type: from Front to Support.
+
+Version 0.0.0.33:
+Changed DISCIPLEMONK(Monk) ATTACK_BONUS_TO_ANY from Off to 2.
+Changed DISCIPLEMONK(Monk) DEFENSE_BONUS_VS_ARCHER from Off to 2.
+Changed DREAD_KNIGHT(Shadow Knight) Type: from Off to Melee.
+Changed DREAD_KNIGHT(Shadow Knight) Damage: from Off to 22.
+Changed DREAD_KNIGHT(Shadow Knight) DamageType: from Off to Vorpal.
+Changed DREAD_KNIGHT(Shadow Knight) Morale Damage: from Off to 0.
+Changed DREAD_KNIGHT(Shadow Knight) Mor. Dmg Type: from Off to Normal.
+Changed DREAD_KNIGHT(Shadow Knight) Reload Time: from Off to 0.5.
+Changed DREAD_KNIGHT(Shadow Knight) Type: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) DamageType: from Off to 0.
+Changed DREAD_KNIGHT(Shadow Knight) Morale Damage: from Off to 0.
+Changed DREAD_KNIGHT(Shadow Knight) Mor. Dmg Type: from Off to Normal.
+Changed DREAD_KNIGHT(Shadow Knight) Reload Time: from Off to 0.
+Changed DREAD_KNIGHT(Shadow Knight) ExceptFaction: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) OnlyFaction: from Off to Ceyah.
+Changed DREAD_KNIGHT(Shadow Knight) Race: from Off to Any.
+Changed DREAD_KNIGHT(Shadow Knight) Tech: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Control zone: from Off to 4.
+Changed DREAD_KNIGHT(Shadow Knight) Entrenchment: from Off to 1.
+Changed DREAD_KNIGHT(Shadow Knight) Morale: from Off to 40.
+Changed DREAD_KNIGHT(Shadow Knight) Visual range: from Off to 5.
+Changed DREAD_KNIGHT(Shadow Knight)  from  to Dread Knight.
+Changed DREAD_KNIGHT(Shadow Knight) Cost in gold: from Off to 6.
+Changed DREAD_KNIGHT(Shadow Knight) Defense: from Off to 12.
+Changed DREAD_KNIGHT(Shadow Knight) Max hit points: from Off to 300.
+Changed DREAD_KNIGHT(Shadow Knight) Color: from Off to Silver.
+Changed DREAD_KNIGHT(Shadow Knight) Proper name: from Off to Dread Knight.
+Changed DREAD_KNIGHT(Shadow Knight) Iron upkeep: from Off to 1.
+Changed DREAD_KNIGHT(Shadow Knight) Mana upkeep: from Off to 1.
+Changed DREAD_KNIGHT(Shadow Knight) Stone upkeep: from Off to 0.
+Changed DREAD_KNIGHT(Shadow Knight) Wood upkeep: from Off to 1.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 0: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 1: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 0: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 1: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 0: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 1: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 0: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) Spell 1: from Off to None.
+Changed DREAD_KNIGHT(Shadow Knight) ATTACK_BONUS_TO_ANY from Off to 3.
+Changed DREAD_KNIGHT(Shadow Knight) ATTACK_BONUS_TO_NONSHADOW from Off to 2.
+Changed DREAD_KNIGHT(Shadow Knight) DAMAGE_TAKEN_FROM_HOLY from Off to 1.1.
+Changed DREAD_KNIGHT(Shadow Knight) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed DREAD_KNIGHT(Shadow Knight) HIT_POINTS_BONUS from Off to 0.9.
+Changed DREAD_KNIGHT(Shadow Knight) MELEE_UNHOLY_DAMAGE from Off to 6.
+Changed DREAD_KNIGHT(Shadow Knight) REVERSE_DAMAGE_WHEN_HIT from Off to 3.
+Changed DREAD_KNIGHT(Shadow Knight) WAS_DAMAGE_BONUS_TO_SHADOW from Off to 1.0.
+Changed DREAD_KNIGHT(Shadow Knight) Banner: from Off to 26.
+Changed DREAD_KNIGHT(Shadow Knight) Captain: from Off to undead_captain.
+Changed DREAD_KNIGHT(Shadow Knight) Description: from Off to Dread Knights are dark and twisted Shadow Knights that infuse their companies with the power of the shadow at the cost of their health..
+Changed DREAD_KNIGHT(Shadow Knight) Move: from Off to 20.
+Changed DREAD_KNIGHT(Shadow Knight) Type: from Off to Front.
+Changed DREAD_KNIGHT(Shadow Knight) Walk distance: from Off to .7.
+Changed GRENADIER(Grenadier) Damage: from 30 to 28.
+Changed GRENADIER(Grenadier) DEFENSE_BONUS_VS_MOUNTED from Off to 2.
+Changed MAELSTROM_ORB2(Ballista) Damage: from 15 to 18.
+Changed MAELSTROM_ORB2(Ballista) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed SHADOW_KNIGHT(Shadow Knight) Iron upkeep: from 1 to 2.
+Changed SHADOW_KNIGHT(Shadow Knight) Mana upkeep: from 1 to 0.
+Changed ZOMBIE(Zombie) Defense: from 8 to 6.
+
+Version 0.0.0.32:
+Changed CAVALIER(Cavalier) Iron upkeep: from 2 to 3.
+Changed CAVALIER(Cavalier) Mana upkeep: from 2 to 1.
+Changed CAVALIER(Cavalier) Wood upkeep: from 0 to 2.
+Changed ELITE_ARCHER(Elite Bowman) Mana upkeep: from 2 to 1.
+Changed ELITE_ARCHER(Elite Bowman) Wood upkeep: from 2 to 4.
+Changed SHOCK_TROOPER(Elite Guard) Iron upkeep: from 1 to 2.
+Changed SHOCK_TROOPER(Elite Guard) Mana upkeep: from 2 to 1.
+Changed SHOCK_TROOPER(Elite Guard) Wood upkeep: from 1 to 2.
+
+Version 0.0.0.31:
+Changed DRAGOON(Dragoon) ArmoryGuild from Off to On.
+Changed DRAGOON(Dragoon) Blacksmith from On to Off.
+Changed HUSSAR(Hussar) Max hit points: from 300 to 280.
+Changed PALADIN(Paladin) DEFENSE_BONUS_VS_ANY from Off to 1.
+Changed PALADIN(Paladin) Move: from 16 to 18.
+Changed PIKEMAN(Pikeman) ATTACK_BONUS_TO_ANY from Off to -1.
+Changed Settings(Settings) Iron Exchange: from 3 to 5.
+
+Version 0.0.0.30:
+Changed Components(Light of Faith) Iron Production: from 0 to 2.
+Changed Components(Workshop) Iron Production: from 4 to 2.
+Changed Components(Workshop) Stone Production: from 8 to 6.
+Changed Components(Workshop) Wood Production: from 6 to 4.
+
+Version 0.0.0.29:
+Changed GOLEM2(Golem Warrior) Move: from 16 to 18.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Company Size: from 6 to 4.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Max Militia: from 12 to 16.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Gold Production: from 29 to 32.
+Changed NATIONALIST_CITY(Nationalist City) Company Size: from 5 to 6.
+Changed NATIONALIST_CITY(Nationalist City) Max Militia: from 10 to 12.
+Changed NATIONALIST_CITY(Nationalist City) Gold Production: from 18 to 24.
+Changed NATIONALIST_TOWN(Nationalist Town) Company Size: from 6 to 4.
+Changed NATIONALIST_TOWN(Nationalist Town) Max Militia: from 12 to 16.
+Changed NATIONALIST_TOWN(Nationalist Town) Gold Production: from 12 to 16.
+Changed NATIONALIST_VILLAGE(Nationalist Village) Company Size: from 5 to 6.
+Changed NATIONALIST_VILLAGE(Nationalist Village) Max Militia: from 10 to 12.
+Changed NATIONALIST_VILLAGE(Nationalist Village) Gold Production: from 6 to 8.
+Changed OVERSEER(Footman) Type: from Off to Melee.
+Changed OVERSEER(Footman) Damage: from Off to 18.
+Changed OVERSEER(Footman) DamageType: from Off to Normal.
+Changed OVERSEER(Footman) Morale Damage: from Off to 0.
+Changed OVERSEER(Footman) Mor. Dmg Type: from Off to Normal.
+Changed OVERSEER(Footman) Reload Time: from Off to 0.5.
+Changed OVERSEER(Footman) Type: from Off to None.
+Changed OVERSEER(Footman) DamageType: from Off to 0.
+Changed OVERSEER(Footman) Morale Damage: from Off to 0.
+Changed OVERSEER(Footman) Mor. Dmg Type: from Off to Normal.
+Changed OVERSEER(Footman) Reload Time: from Off to 0.
+Changed OVERSEER(Footman) ExceptFaction: from Off to Ceyah.
+Changed OVERSEER(Footman) OnlyFaction: from Off to Nationalist.
+Changed OVERSEER(Footman) Race: from Off to Mareten.
+Changed OVERSEER(Footman) Tech: from Off to None.
+Changed OVERSEER(Footman) Woodmill from Off to On.
+Changed OVERSEER(Footman) Control zone: from Off to 4.
+Changed OVERSEER(Footman) Entrenchment: from Off to 1.
+Changed OVERSEER(Footman) Morale: from Off to 35.
+Changed OVERSEER(Footman) Visual range: from Off to 6.
+Changed OVERSEER(Footman)  from  to Overseer.
+Changed OVERSEER(Footman) Cost in gold: from Off to 4.
+Changed OVERSEER(Footman) Defense: from Off to 10.
+Changed OVERSEER(Footman) Max hit points: from Off to 200.
+Changed OVERSEER(Footman) Color: from Off to Gold.
+Changed OVERSEER(Footman) Proper name: from Off to Overseer.
+Changed OVERSEER(Footman) Iron upkeep: from Off to 0.
+Changed OVERSEER(Footman) Mana upkeep: from Off to 0.
+Changed OVERSEER(Footman) Stone upkeep: from Off to 0.
+Changed OVERSEER(Footman) Wood upkeep: from Off to 1.
+Changed OVERSEER(Footman) Spell 0: from Off to None.
+Changed OVERSEER(Footman) Spell 1: from Off to None.
+Changed OVERSEER(Footman) Spell 0: from Off to None.
+Changed OVERSEER(Footman) Spell 1: from Off to None.
+Changed OVERSEER(Footman) Spell 0: from Off to None.
+Changed OVERSEER(Footman) Spell 1: from Off to None.
+Changed OVERSEER(Footman) Spell 0: from Off to None.
+Changed OVERSEER(Footman) Spell 1: from Off to None.
+Changed OVERSEER(Footman) ATTACK_BONUS_TO_ANY from Off to 1.
+Changed OVERSEER(Footman) ZONE_OF_CONTROL_BONUS from Off to 1.1.
+Changed OVERSEER(Footman) Banner: from Off to 13.
+Changed OVERSEER(Footman) Captain: from Off to None.
+Changed OVERSEER(Footman) Description: from Off to Overseers are nationlist Lieutenants that usually accompany footman troops. Overseers increase the combat effectivity of their charges..
+Changed OVERSEER(Footman) Move: from Off to 20.
+Changed OVERSEER(Footman) Type: from Off to Support.
+Changed OVERSEER(Footman) Walk distance: from Off to 0.77.
+
+Version 0.0.0.28:
+Changed ARCHER_SUPPORT(Hunter) ATTACK_BONUS_TO_ARCHER from -4 to Off.
+Changed ARCHER_SUPPORT(Hunter) DAMAGE_TAKEN_FROM_RANGED from Off to 1.1.
+Changed CULTIST(Cultist) Morale Damage: from 0.5 to 0.
+Changed TARKAN(Tarkan) Captain: from cavalry_captain to None.
+Changed TARKAN(Tarkan) Type: from Front to Support.
+
+Version 0.0.0.27:
+Changed ARCHER_SUPPORT(Bowman) Type: from Off to Projectile.
+Changed ARCHER_SUPPORT(Bowman) Damage: from Off to 28.
+Changed ARCHER_SUPPORT(Bowman) DamageType: from Off to Normal.
+Changed ARCHER_SUPPORT(Bowman) Morale Damage: from Off to 0.
+Changed ARCHER_SUPPORT(Bowman) Mor. Dmg Type: from Off to Normal.
+Changed ARCHER_SUPPORT(Bowman) Reload Time: from Off to 2.
+Changed ARCHER_SUPPORT(Bowman) Type: from Off to Melee.
+Changed ARCHER_SUPPORT(Bowman) Damage: from Off to 10.
+Changed ARCHER_SUPPORT(Bowman) DamageType: from Off to Normal.
+Changed ARCHER_SUPPORT(Bowman) Morale Damage: from Off to 0.
+Changed ARCHER_SUPPORT(Bowman) Mor. Dmg Type: from Off to Normal.
+Changed ARCHER_SUPPORT(Bowman) Reload Time: from Off to 0.5.
+Changed ARCHER_SUPPORT(Bowman) Barracks from Off to On.
+Changed ARCHER_SUPPORT(Bowman) ExceptFaction: from Off to Ceyah.
+Changed ARCHER_SUPPORT(Bowman) OnlyFaction: from Off to Nationalist.
+Changed ARCHER_SUPPORT(Bowman) Race: from Off to Mareten.
+Changed ARCHER_SUPPORT(Bowman) Tech: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Woodmill from On to Off.
+Changed ARCHER_SUPPORT(Bowman) Control zone: from Off to 5.
+Changed ARCHER_SUPPORT(Bowman) Entrenchment: from Off to 1.5.
+Changed ARCHER_SUPPORT(Bowman) Morale: from Off to 30.
+Changed ARCHER_SUPPORT(Bowman) Visual range: from Off to 7.
+Changed ARCHER_SUPPORT(Bowman) ATTACK_BONUS_TO_ARCHER from Off to -4.
+Changed ARCHER_SUPPORT(Bowman) DAMAGE_TAKEN_FROM_MAGIC from Off to 1.0.
+Changed ARCHER_SUPPORT(Bowman)  from  to Hunter.
+Changed ARCHER_SUPPORT(Bowman) Cost in gold: from Off to 6.
+Changed ARCHER_SUPPORT(Bowman) Defense: from Off to 8.
+Changed ARCHER_SUPPORT(Bowman) Max hit points: from Off to 140.
+Changed ARCHER_SUPPORT(Bowman) Color: from Off to Gold.
+Changed ARCHER_SUPPORT(Bowman) Proper name: from Off to Hunter.
+Changed ARCHER_SUPPORT(Bowman) Iron upkeep: from Off to 0.
+Changed ARCHER_SUPPORT(Bowman) Mana upkeep: from Off to 0.
+Changed ARCHER_SUPPORT(Bowman) Stone upkeep: from Off to 0.
+Changed ARCHER_SUPPORT(Bowman) Wood upkeep: from Off to 1.
+Changed ARCHER_SUPPORT(Bowman) Spell 0: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 1: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 0: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 1: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 0: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 1: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 0: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Spell 1: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Banner: from Off to 8.
+Changed ARCHER_SUPPORT(Bowman) Captain: from Off to None.
+Changed ARCHER_SUPPORT(Bowman) Description: from Off to Hunters are the lesser trained and cheaper bowmen that Nationalist armies can field. While they are unable to match a proper archer on the battlefield, they have become popular among Nationlist generals as inexpensive ranged support..
+Changed ARCHER_SUPPORT(Bowman) Move: from Off to 20.
+Changed ARCHER_SUPPORT(Bowman) Type: from Off to Support.
+Changed ARCHER_SUPPORT(Bowman) Walk distance: from Off to 0.72.
+Changed TARKAN(Lancer) Type: from Off to Melee.
+Changed TARKAN(Lancer) Damage: from Off to 20.
+Changed TARKAN(Lancer) DamageType: from Off to Normal.
+Changed TARKAN(Lancer) Morale Damage: from Off to 0.
+Changed TARKAN(Lancer) Mor. Dmg Type: from Off to Normal.
+Changed TARKAN(Lancer) Reload Time: from Off to 0.5.
+Changed TARKAN(Lancer) Type: from Off to None.
+Changed TARKAN(Lancer) DamageType: from Off to 0.
+Changed TARKAN(Lancer) Morale Damage: from Off to 0.
+Changed TARKAN(Lancer) Mor. Dmg Type: from Off to Normal.
+Changed TARKAN(Lancer) Reload Time: from Off to 0.
+Changed TARKAN(Lancer) Barracks from Off to On.
+Changed TARKAN(Lancer) ExceptFaction: from Off to None.
+Changed TARKAN(Lancer) OnlyFaction: from Off to Royalist.
+Changed TARKAN(Lancer) Race: from Off to Mareten.
+Changed TARKAN(Lancer) Tech: from Off to None.
+Changed TARKAN(Lancer) Control zone: from Off to 4.
+Changed TARKAN(Lancer) Entrenchment: from Off to 5.
+Changed TARKAN(Lancer) Morale: from Off to 45.
+Changed TARKAN(Lancer) Visual range: from Off to 8.
+Changed TARKAN(Lancer) REVERSE_DAMAGE_WHEN_HIT from Off to 10.
+Changed TARKAN(Lancer)  from  to Tarkan.
+Changed TARKAN(Lancer) Cost in gold: from Off to 9.
+Changed TARKAN(Lancer) Defense: from Off to 12.
+Changed TARKAN(Lancer) Max hit points: from Off to 280.
+Changed TARKAN(Lancer) Color: from Off to Gold.
+Changed TARKAN(Lancer) Proper name: from Off to Tarkan.
+Changed TARKAN(Lancer) Iron upkeep: from Off to 1.
+Changed TARKAN(Lancer) Mana upkeep: from Off to 1.
+Changed TARKAN(Lancer) Stone upkeep: from Off to 0.
+Changed TARKAN(Lancer) Wood upkeep: from Off to 1.
+Changed TARKAN(Lancer) Spell 0: from Off to None.
+Changed TARKAN(Lancer) Spell 1: from Off to None.
+Changed TARKAN(Lancer) Spell 0: from Off to None.
+Changed TARKAN(Lancer) Spell 1: from Off to None.
+Changed TARKAN(Lancer) Spell 0: from Off to None.
+Changed TARKAN(Lancer) Spell 1: from Off to None.
+Changed TARKAN(Lancer) Spell 0: from Off to None.
+Changed TARKAN(Lancer) Spell 1: from Off to None.
+Changed TARKAN(Lancer) ATTACK_BONUS_TO_ANY from Off to 3.
+Changed TARKAN(Lancer) ATTACK_BONUS_TO_BUILDING from Off to 10.
+Changed TARKAN(Lancer) MOVEMENT_BONUS from Off to 1.1.
+Changed TARKAN(Lancer) Banner: from Off to 29.
+Changed TARKAN(Lancer) Captain: from Off to cavalry_captain.
+Changed TARKAN(Lancer) Description: from Off to Tarkans are the elite Lancers that guide Royalist cavalry into battle. Tarkans train their companies to move faster and strike harder, particularly against buildings..
+Changed TARKAN(Lancer) Move: from Off to 28.
+Changed TARKAN(Lancer) Type: from Off to Front.
+Changed TARKAN(Lancer) Walk distance: from Off to 1.4.
+
+Version 0.0.0.26:
+Changed CULTIST(Cultist) Morale Damage: from 0 to 0.5.
+Changed CULTIST(Cultist) Morale: from 35 to 40.
+Changed CULTIST(Cultist) DEFENSE_BONUS_VS_ARCHER from Off to 4.
+Changed CULTIST(Cultist) Cost in gold: from 8 to 6.
+Changed CULTIST(Cultist) Defense: from 10 to 12.
+Changed CULTIST(Cultist) MELEE_UNHOLY_DAMAGE from Off to 2.
+
+Version 0.0.0.25:
+Changed CROSSBOWMAN2(Archer of the Eyes) Damage: from 74 to 70.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_ANY from 2 to 1.
+
+Version 0.0.0.24:
+Changed ARCHMAGE(Archmage) Color: from Player to Silver.
+Changed DISCIPLEMONK(Disciple) Type: from Off to Melee.
+Changed DISCIPLEMONK(Disciple) Damage: from Off to 34.
+Changed DISCIPLEMONK(Disciple) DamageType: from Off to Khaldunite.
+Changed DISCIPLEMONK(Disciple) Morale Damage: from Off to 0.
+Changed DISCIPLEMONK(Disciple) Mor. Dmg Type: from Off to Normal.
+Changed DISCIPLEMONK(Disciple) Reload Time: from Off to 0.3.
+Changed DISCIPLEMONK(Disciple) Type: from Off to Melee.
+Changed DISCIPLEMONK(Disciple) Damage: from Off to 56.
+Changed DISCIPLEMONK(Disciple) DamageType: from Off to Khaldunite.
+Changed DISCIPLEMONK(Disciple) Morale Damage: from Off to 0.
+Changed DISCIPLEMONK(Disciple) Mor. Dmg Type: from Off to Normal.
+Changed DISCIPLEMONK(Disciple) Reload Time: from Off to 0.8.
+Changed DISCIPLEMONK(Disciple) ExceptFaction: from Off to None.
+Changed DISCIPLEMONK(Disciple) OnlyFaction: from Off to Nationalist.
+Changed DISCIPLEMONK(Disciple) Race: from Off to Mareten.
+Changed DISCIPLEMONK(Disciple) Tech: from Off to None.
+Changed DISCIPLEMONK(Disciple) Control zone: from Off to 4.
+Changed DISCIPLEMONK(Disciple) Entrenchment: from Off to 3.
+Changed DISCIPLEMONK(Disciple) Morale: from Off to 50.
+Changed DISCIPLEMONK(Disciple) Visual range: from Off to 6.
+Changed DISCIPLEMONK(Disciple)  from  to Monk.
+Changed DISCIPLEMONK(Disciple) Cost in gold: from Off to 12.
+Changed DISCIPLEMONK(Disciple) Defense: from Off to 6.
+Changed DISCIPLEMONK(Disciple) Max hit points: from Off to 300.
+Changed DISCIPLEMONK(Disciple) Color: from Off to Gold.
+Changed DISCIPLEMONK(Disciple) Proper name: from Off to Monk.
+Changed DISCIPLEMONK(Disciple) Iron upkeep: from Off to 1.
+Changed DISCIPLEMONK(Disciple) Mana upkeep: from Off to 1.
+Changed DISCIPLEMONK(Disciple) Stone upkeep: from Off to 0.
+Changed DISCIPLEMONK(Disciple) Wood upkeep: from Off to 1.
+Changed DISCIPLEMONK(Disciple) Spell 0: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 1: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 0: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 1: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 0: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 1: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 0: from Off to None.
+Changed DISCIPLEMONK(Disciple) Spell 1: from Off to None.
+Changed DISCIPLEMONK(Disciple) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed DISCIPLEMONK(Disciple) MELEE_HOLY_DAMAGE from Off to 2.
+Changed DISCIPLEMONK(Disciple) Banner: from Off to 25.
+Changed DISCIPLEMONK(Disciple) Captain: from Off to None.
+Changed DISCIPLEMONK(Disciple) Description: from Off to Monks are the elite disciples that guide Nationalist troops into the battle against the shadow. .
+Changed DISCIPLEMONK(Disciple) Move: from Off to 24.
+Changed DISCIPLEMONK(Disciple) Type: from Off to Support.
+Changed DISCIPLEMONK(Disciple) Walk distance: from Off to 0.77.
+Changed FOOTMAN(Footman) ATTACK_BONUS_TO_MOUNTED from 3 to 2.
+Changed GOLEM2(Golem) Type: from Off to Melee.
+Changed GOLEM2(Golem) Damage: from Off to 20.
+Changed GOLEM2(Golem) DamageType: from Off to Magic.
+Changed GOLEM2(Golem) Morale Damage: from Off to 0.
+Changed GOLEM2(Golem) Mor. Dmg Type: from Off to Normal.
+Changed GOLEM2(Golem) Reload Time: from Off to 0.5.
+Changed GOLEM2(Golem) Type: from Off to None.
+Changed GOLEM2(Golem) DamageType: from Off to 0.
+Changed GOLEM2(Golem) Morale Damage: from Off to 0.
+Changed GOLEM2(Golem) Mor. Dmg Type: from Off to Normal.
+Changed GOLEM2(Golem) Reload Time: from Off to 0.
+Changed GOLEM2(Golem) Barracks from Off to On.
+Changed GOLEM2(Golem) ExceptFaction: from Off to None.
+Changed GOLEM2(Golem) Library from On to Off.
+Changed GOLEM2(Golem) OnlyFaction: from Off to Nationalist.
+Changed GOLEM2(Golem) Race: from Off to Any.
+Changed GOLEM2(Golem) Tech: from Off to None.
+Changed GOLEM2(Golem) Control zone: from Off to 5.
+Changed GOLEM2(Golem) Entrenchment: from Off to 1.
+Changed GOLEM2(Golem) Morale: from Off to 100.
+Changed GOLEM2(Golem) Visual range: from Off to 6.
+Changed GOLEM2(Golem) DAMAGE_TAKEN_FROM_MAGIC from .75 to .50.
+Changed GOLEM2(Golem)  from  to Golem Warrior.
+Changed GOLEM2(Golem) Cost in gold: from Off to 10.
+Changed GOLEM2(Golem) Defense: from Off to 10.
+Changed GOLEM2(Golem) Max hit points: from Off to 300.
+Changed GOLEM2(Golem) Color: from Off to Player.
+Changed GOLEM2(Golem) Proper name: from Off to Golem Warrior.
+Changed GOLEM2(Golem) Iron upkeep: from Off to 0.
+Changed GOLEM2(Golem) Mana upkeep: from Off to 0.
+Changed GOLEM2(Golem) Stone upkeep: from Off to 2.
+Changed GOLEM2(Golem) Wood upkeep: from Off to 1.
+Changed GOLEM2(Golem) Spell 0: from Off to None.
+Changed GOLEM2(Golem) Spell 1: from Off to None.
+Changed GOLEM2(Golem) Spell 0: from Off to None.
+Changed GOLEM2(Golem) Spell 1: from Off to None.
+Changed GOLEM2(Golem) Spell 0: from Off to None.
+Changed GOLEM2(Golem) Spell 1: from Off to None.
+Changed GOLEM2(Golem) Spell 0: from Off to None.
+Changed GOLEM2(Golem) Spell 1: from Off to None.
+Changed GOLEM2(Golem) Banner: from Off to 22.
+Changed GOLEM2(Golem) Captain: from Off to captain.
+Changed GOLEM2(Golem) Description: from Off to Golems are weaker cousins of the Elemental. They are produced en masse by wizardry guilds to create mindless warriors that feel no pain or fear..
+Changed GOLEM2(Golem) Move: from Off to 16.
+Changed GOLEM2(Golem) Type: from Off to Front.
+Changed GOLEM2(Golem) Walk distance: from Off to 1.
+Changed GRENADIER(Grenadier) Morale: from 50 to 55.
+Changed HUSSAR(Hussar) Defense: from 10 to 12.
+Changed LANCER(Lancer) Defense: from 10 to 12.
+Changed Settings(Settings) Mana Exchange: from 5 to 10.
+Changed SORCERER(Sorcerer) OnlyFaction: from Royalist to Any.
+Changed SORCERER(Sorcerer) Tech: from None to Sorcerer.
+
+Version 0.0.0.23:
+Changed CULTIST(Cultist) Spell 0: from Entangle to Shadow's Hunter.
+Changed CULTIST(Cultist) Spell 1: from Shadow's Hunter to None.
+
+Version 0.0.0.22:
+Changed CULTIST(Cultist) Damage: from 18 to 16.
+Changed CULTIST(Cultist) Spell 0: from Spectral Form to Entangle.
+
+Version 0.0.0.21:
+Changed CULTIST(Cultist) Spell 1: from Volley of Shadow to Shadow's Hunter.
+
+Version 0.0.0.20:
+Changed CULTIST(Cultist) Spell 0: from Shadow's Sleep to Spectral Form.
+Changed CULTIST(Cultist) Spell 1: from None to Volley of Shadow.
+
+Version 0.0.0.19:
+Changed CULTIST(Cultist) Spell 0: from Mark of the Shadow to Shadow's Sleep.
+
+Version 0.0.0.18:
+Changed CULTIST(Cultist) Spell 0: from Ahriman's Gift to Mark of the Shadow.
+
+Version 0.0.0.17:
+Changed CULTIST(Cultist) Spell 0: from Paralyze to Ahriman's Gift.
+
+Version 0.0.0.16:
+Changed CULTIST(Cultist) Captain: from  to Undead_captain.
+
+Version 0.0.0.15:
+Changed CULTIST(Prophet) Type: from Off to Melee.
+Changed CULTIST(Prophet) Damage: from Off to 18.
+Changed CULTIST(Prophet) DamageType: from Off to Normal.
+Changed CULTIST(Prophet) Morale Damage: from Off to 0.
+Changed CULTIST(Prophet) Mor. Dmg Type: from Off to Normal.
+Changed CULTIST(Prophet) Reload Time: from Off to 0.5.
+Changed CULTIST(Prophet) Type: from Off to Cast.
+Changed CULTIST(Prophet) DamageType: from Off to Normal.
+Changed CULTIST(Prophet) Morale Damage: from Off to 0.
+Changed CULTIST(Prophet) Mor. Dmg Type: from Off to Normal.
+Changed CULTIST(Prophet) Reload Time: from Off to 3.
+Changed CULTIST(Prophet) ExceptFaction: from Off to None.
+Changed CULTIST(Prophet) OnlyFaction: from Off to Ceyah.
+Changed CULTIST(Prophet) Race: from Off to Any.
+Changed CULTIST(Prophet) Tech: from Off to None.
+Changed CULTIST(Prophet) Control zone: from Off to 3.
+Changed CULTIST(Prophet) Entrenchment: from Off to 1.
+Changed CULTIST(Prophet) Morale: from Off to 35.
+Changed CULTIST(Prophet) Visual range: from Off to 8.
+Changed CULTIST(Prophet) MELEE_UNHOLY_DAMAGE from Off to 4.
+Changed CULTIST(Prophet)  from  to Cultist.
+Changed CULTIST(Prophet) Cost in gold: from Off to 8.
+Changed CULTIST(Prophet) Defense: from Off to 10.
+Changed CULTIST(Prophet) Max hit points: from Off to 180.
+Changed CULTIST(Prophet) Color: from Off to Player.
+Changed CULTIST(Prophet) Proper name: from Off to Cultist.
+Changed CULTIST(Prophet) Iron upkeep: from Off to 0.
+Changed CULTIST(Prophet) Mana upkeep: from Off to 0.
+Changed CULTIST(Prophet) Stone upkeep: from Off to 2.
+Changed CULTIST(Prophet) Wood upkeep: from Off to 0.
+Changed CULTIST(Prophet) Regen: from Off to 1.
+Changed CULTIST(Prophet) Max Mana: from Off to 60.
+Changed CULTIST(Prophet) Spell 0: from Off to Paralyze.
+Changed CULTIST(Prophet) Spell 1: from Off to None.
+Changed CULTIST(Prophet) Spell 0: from Off to None.
+Changed CULTIST(Prophet) Spell 1: from Off to None.
+Changed CULTIST(Prophet) Spell 0: from Off to None.
+Changed CULTIST(Prophet) Spell 1: from Off to None.
+Changed CULTIST(Prophet) Spell 0: from Off to None.
+Changed CULTIST(Prophet) Spell 1: from Off to None.
+Changed CULTIST(Prophet) Description: from Off to The virtually insane priests of the Great Master, Cultists are known for charging into battle with the troops they support..
+Changed CULTIST(Prophet) Move: from Off to 22.
+Changed CULTIST(Prophet) Type: from Off to Front.
+Changed CULTIST(Prophet) Walk distance: from Off to 0.85.
+
+Version 0.0.0.14:
+Changed DREADLORD(Dreadlord) ManaForge from Off to On.
+Changed DREADLORD(Dreadlord) Temple from On to Off.
+Changed DREADLORD(Dreadlord) ATTACK_BONUS_TO_NONSHADOW from Off to 2.
+Changed DREADLORD(Dreadlord) Move: from 16 to 18.
+Changed LICH(Lich) Color: from Player to Silver.
+Changed PIKEMAN(Pikeman) Max hit points: from 200 to 220.
+Changed PIKEMAN(Pikeman) DEFENSE_BONUS_VS_ANY from 2 to 3.
+Changed VILLAGE_MILITIA(Militia) ATTACK_BONUS_TO_MOUNTED from 5 to 2.
+
+Version 0.0.0.13:
+Changed Components(Supply Post) Iron Production: from 1 to 0.
+Changed Components(Supply Post) Stone Production: from 3 to 0.
+Changed Components(Supply Post) Wood Production: from 2 to 0.
+
+Version 0.0.0.12:
+Changed Components(Market) Iron Production: from -1 to 0.
+Changed Components(Market) Stone Production: from -3 to 2.
+Changed Components(Market) Wood Production: from -2 to 0.
+
+Version 0.0.0.11:
+Changed Components(Bank) Gold Cost: from 72 to 42.
+Changed Components(Bank) Iron Production: from 2 to 1.
+Changed Components(Bank) Sell Price: from 99 to 69.
+Changed Components(Bank) Stone Production: from 2 to 1.
+Changed Components(Bank) Wood Production: from 2 to 1.
+Changed Components(Garrison) Gold Production: from  to 6.
+Changed Components(Garrison) Iron Production: from  to 0.
+Changed Components(Iron Export) Gold Production: from 15 to 0.
+Changed Components(Iron Export) Mana Production: from  to 2.
+Changed Components(Iron Export) Stone Production: from  to -2.
+Changed Components(Iron Export) Wood Production: from  to -4.
+Changed Components(Library) Mana Production: from 4 to 2.
+Changed Components(Library) Stone Production: from -1 to 0.
+Changed Components(Library) Wood Production: from -2 to 0.
+Changed Components(Light of Faith) Iron Production: from 3 to 0.
+Changed Components(Light of Faith) Mana Production: from 2 to +1.
+Changed Components(Mage College) Iron Production: from 0 to -1.
+Changed Components(Mage College) Mana Production: from 4 to 0.
+Changed Components(Mage College) Stone Production: from -2 to -3.
+Changed Components(Mage College) Wood Production: from -4 to -2.
+Changed Components(Mana Forge) Mana Production: from 4 to 0.
+Changed Components(Masonry Guild) Mana Production: from 2 to +2.
+Changed Components(Sawmill) Iron Production: from 0 to 1.
+Changed Components(Sawmill) Stone Production: from 0 to 3.
+Changed Components(Sawmill) Wood Production: from 4 to 2.
+Changed Components(Stone Export) Iron Production: from  to -1.
+Changed Components(Stone Export) Stone Production: from -5 to -3.
+Changed Components(Temple) Iron Production: from  to 0.
+
+Version 0.0.0.10:
+Changed SHADOW_BEAST2(Shadow Beast) Type: from Off to Melee.
+Changed SHADOW_BEAST2(Shadow Beast) Damage: from Off to 26.
+Changed SHADOW_BEAST2(Shadow Beast) DamageType: from Off to Normal.
+Changed SHADOW_BEAST2(Shadow Beast) Morale Damage: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) Mor. Dmg Type: from Off to Normal.
+Changed SHADOW_BEAST2(Shadow Beast) Reload Time: from Off to 0.5.
+Changed SHADOW_BEAST2(Shadow Beast) Type: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) DamageType: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) Morale Damage: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) Mor. Dmg Type: from Off to Normal.
+Changed SHADOW_BEAST2(Shadow Beast) Reload Time: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) ExceptFaction: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) OnlyFaction: from Off to Ceyah.
+Changed SHADOW_BEAST2(Shadow Beast) Race: from Off to Any.
+Changed SHADOW_BEAST2(Shadow Beast) Tech: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Temple from On to Off.
+Changed SHADOW_BEAST2(Shadow Beast) Control zone: from Off to 4.
+Changed SHADOW_BEAST2(Shadow Beast) Entrenchment: from Off to 10.
+Changed SHADOW_BEAST2(Shadow Beast) Morale: from Off to 35.
+Changed SHADOW_BEAST2(Shadow Beast) Visual range: from Off to 7.
+Changed SHADOW_BEAST2(Shadow Beast)  from  to Night Beast.
+Changed SHADOW_BEAST2(Shadow Beast) Cost in gold: from Off to 6.
+Changed SHADOW_BEAST2(Shadow Beast) Defense: from Off to 6.
+Changed SHADOW_BEAST2(Shadow Beast) Max hit points: from Off to 200.
+Changed SHADOW_BEAST2(Shadow Beast) Color: from Off to Silver.
+Changed SHADOW_BEAST2(Shadow Beast) Proper name: from Off to Night Beast.
+Changed SHADOW_BEAST2(Shadow Beast) Iron upkeep: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) Mana upkeep: from Off to 0.
+Changed SHADOW_BEAST2(Shadow Beast) Stone upkeep: from Off to 1.
+Changed SHADOW_BEAST2(Shadow Beast) Wood upkeep: from Off to 2.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 0: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 1: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 0: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 1: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 0: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 1: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 0: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) Spell 1: from Off to None.
+Changed SHADOW_BEAST2(Shadow Beast) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed SHADOW_BEAST2(Shadow Beast) HIT_POINTS_BONUS from Off to 1.1.
+Changed SHADOW_BEAST2(Shadow Beast) Banner: from Off to 22.
+Changed SHADOW_BEAST2(Shadow Beast) Captain: from Off to shadow_captain.
+Changed SHADOW_BEAST2(Shadow Beast) Description: from Off to Night Beasts are demonic creatures, less aggressive than Shadow and Void Beasts..
+Changed SHADOW_BEAST2(Shadow Beast) Move: from Off to 26.
+Changed SHADOW_BEAST2(Shadow Beast) Type: from Off to Front.
+Changed SHADOW_BEAST2(Shadow Beast) Walk distance: from Off to 1.
+
+Version 0.0.0.9:
+Changed Components(Library) Stone Production: from -1 to -2.
+Changed Components(Library) Wood Production: from -2 to -4.
+Changed Components(Market) Mana Production: from 2 to 0.
+Changed Components(Market) Stone Production: from 0 to -2.
+Changed Components(Market) Wood Production: from 0 to -2.
+Changed Components(Masonry Guild) Mana Production: from 2 to 0.
+Changed Components(Workshop) Iron Production: from 8 to 4.
+Changed Components(Workshop) Wood Production: from 8 to 6.
+
+Version 0.0.0.8:
+Changed CAVALIER(Cavalier) Max hit points: from 440 to 420.
+Changed Components(Iron Export) Gold Production: from 15 to 6.
+Changed Components(Iron Export) Iron Production: from -5 to 0.
+Changed Components(Light of Faith) Iron Production: from 3 to .
+Changed Components(Light of Faith) Stone Production: from 3 to .
+Changed Components(Light of Faith) Wood Production: from 3 to .
+Changed Components(Mage College) Mana Production: from 4 to 2.
+Changed Components(Mage College) Stone Production: from -2 to 0.
+Changed Components(Mage College) Wood Production: from -4 to 0.
+Changed CROSSBOWMAN2(Archer of the Eyes) DamageType: from Normal to Khaldunite.
+Changed CROSSBOWMAN2(Archer of the Eyes) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed DRAGOON(Dragoon) Damage: from 30 to 28.
+Changed DRAGOON(Dragoon) Max hit points: from 320 to 300.
+Changed ELITE_ARCHER(Elite Bowman) Damage: from 36 to 38.
+Changed ELITE_ARCHER(Elite Bowman) Reload Time: from 1.3 to 2.
+Changed ELITE_ARCHER(Elite Bowman) Max hit points: from 240 to 200.
+Changed GRENADIER(Grenadier) Max hit points: from 280 to 300.
+Changed GRENADIER(Grenadier) Iron upkeep: from 1 to 2.
+Changed GRENADIER(Grenadier) Wood upkeep: from 1 to 0.
+Changed HUSSAR(Hussar) ATTACK_BONUS_TO_MOUNTED from Off to 2.
+Changed INFANTRY(Infantry) Max hit points: from 260 to 280.
+Changed INFANTRY(Infantry) Iron upkeep: from 2 to 1.
+Changed INFANTRY(Infantry) Wood upkeep: from 0 to 1.
+Changed SCOUT(Scout) Max hit points: from 250 to 225.
+
+Version 0.0.0.7:
+Changed Components(Armory Guild) Iron Production: from  to 2.
+Changed Components(Astrology Hall) Mana Production: from 2 to 1.
+Changed Components(Bank) Iron Production: from 4 to 2.
+Changed Components(Blacksmith) Iron Production: from 6 to 2.
+Changed Components(Iron Export) Gold Production: from 15 to 6.
+Changed Components(Iron Export) Iron Production: from -5 to 0.
+Changed Components(Library) Stone Production: from -1 to -2.
+Changed Components(Library) Wood Production: from -2 to -4.
+Changed Components(Mage College) Mana Production: from 4 to 2.
+Changed Components(Mana Forge) Iron Production: from -2 to 0.
+Changed Components(Mana Forge) Mana Production: from 4 to 2.
+Changed Components(Temple) Iron Production: from  to -2.
+Changed Components(Wizard Tower) Mana Production: from 3 to 1.
+
+Version 0.0.0.6:
+Changed Components(Bank) Iron Production: from 2 to 4.
+Changed Components(Carpentry Guild) Wood Production: from  to 2.
+Changed Components(Supply Post) Iron Production: from 1 to 3.
+Changed Components(Supply Post) Stone Production: from 1 to 3.
+Changed Components(Supply Post) Wood Production: from 1 to 3.
+Changed Components(Wood Export) Gold Production: from 10 to 4.
+Changed Components(Wood Export) Wood Production: from -5 to 0.
+Changed Components(Woodmill) Wood Production: from 6 to 4.
+Changed GRENADIER(Grenadier) Damage: from 28 to 30.
+Changed INFANTRY(Infantry) Damage: from 24 to 26.
+Changed INFANTRY(Infantry) Max hit points: from 240 to 260.
+
+Version 0.0.0.5:
+Changed CROSSBOWMAN2(Crossbowman) Type: from Off to Projectile.
+Changed CROSSBOWMAN2(Crossbowman) Damage: from Off to 74.
+Changed CROSSBOWMAN2(Crossbowman) DamageType: from Off to Normal.
+Changed CROSSBOWMAN2(Crossbowman) Morale Damage: from Off to 0.
+Changed CROSSBOWMAN2(Crossbowman) Mor. Dmg Type: from Off to Normal.
+Changed CROSSBOWMAN2(Crossbowman) Reload Time: from Off to 5.
+Changed CROSSBOWMAN2(Crossbowman) Type: from Off to Melee.
+Changed CROSSBOWMAN2(Crossbowman) Damage: from Off to 20.
+Changed CROSSBOWMAN2(Crossbowman) DamageType: from Off to Normal.
+Changed CROSSBOWMAN2(Crossbowman) Morale Damage: from Off to 0.
+Changed CROSSBOWMAN2(Crossbowman) Mor. Dmg Type: from Off to Normal.
+Changed CROSSBOWMAN2(Crossbowman) Reload Time: from Off to 0.5.
+Changed CROSSBOWMAN2(Crossbowman) ExceptFaction: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) OnlyFaction: from Off to Council.
+Changed CROSSBOWMAN2(Crossbowman) Race: from Off to Mareten.
+Changed CROSSBOWMAN2(Crossbowman) Tech: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Control zone: from Off to 5.
+Changed CROSSBOWMAN2(Crossbowman) Entrenchment: from Off to 1.5.
+Changed CROSSBOWMAN2(Crossbowman) Morale: from Off to 35.
+Changed CROSSBOWMAN2(Crossbowman) Visual range: from Off to 7.
+Changed CROSSBOWMAN2(Crossbowman) ATTACK_BONUS_TO_BUILDING from -20 to -40.
+Changed CROSSBOWMAN2(Crossbowman)  from  to Archer of the Eyes.
+Changed CROSSBOWMAN2(Crossbowman) Cost in gold: from Off to 14.
+Changed CROSSBOWMAN2(Crossbowman) Defense: from Off to 10.
+Changed CROSSBOWMAN2(Crossbowman) Max hit points: from Off to 210.
+Changed CROSSBOWMAN2(Crossbowman) Color: from Off to Silver.
+Changed CROSSBOWMAN2(Crossbowman) Proper name: from Off to Archer of the Eyes.
+Changed CROSSBOWMAN2(Crossbowman) Iron upkeep: from Off to 1.
+Changed CROSSBOWMAN2(Crossbowman) Mana upkeep: from Off to 1.
+Changed CROSSBOWMAN2(Crossbowman) Stone upkeep: from Off to 0.
+Changed CROSSBOWMAN2(Crossbowman) Wood upkeep: from Off to 1.
+Changed CROSSBOWMAN2(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 0: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Spell 1: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) DAMAGE_TAKEN_FROM_MELEE from Off to 0.9.
+Changed CROSSBOWMAN2(Crossbowman) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed CROSSBOWMAN2(Crossbowman) IGNORE_TERRAIN_BONUS from Off to 1.
+Changed CROSSBOWMAN2(Crossbowman) RELOAD_TIME_BONUS from Off to 0.5.
+Changed CROSSBOWMAN2(Crossbowman) REVERSE_DAMAGE_WHEN_HIT from Off to 2.
+Changed CROSSBOWMAN2(Crossbowman) Banner: from Off to 24.
+Changed CROSSBOWMAN2(Crossbowman) Captain: from Off to None.
+Changed CROSSBOWMAN2(Crossbowman) Description: from Off to Archers of the Eyes are the elite crossbowmen that support Mareten armies in battle. .
+Changed CROSSBOWMAN2(Crossbowman) Move: from Off to 22.
+Changed CROSSBOWMAN2(Crossbowman) Type: from Off to Support.
+Changed CROSSBOWMAN2(Crossbowman) Walk distance: from Off to 0.72.
+Changed LICH(Lich) Captain: from captain to None.
+
+Version 0.0.0.4:
+Changed ACOLYTE(Acolyte) Mana upkeep: from 2 to 3.
+Changed ARCHMAGE(Archmage) Mana upkeep: from 3 to 4.
+Changed BATTLE_PRIEST(Battle Priest) Mana upkeep: from 1 to 2.
+Changed CAVALIER(Cavalier) Damage: from 50 to 35.
+Changed CAVALIER(Cavalier) Max hit points: from 480 to 440.
+Changed CAVALIER(Cavalier) Move: from 32 to 26.
+Changed CELEBRANT(Celebrant) Mana upkeep: from 2 to 3.
+Changed CEYAH_CITADEL(Ceyah Citadel) Gold Production: from 25 to 29.
+Changed CEYAH_CITY(Ceyah City) Gold Production: from 15 to 18.
+Changed CEYAH_TOWN(Ceyah Town) Gold Production: from 10 to 12.
+Changed CEYAH_VILLAGE(Ceyah Village) Gold Production: from 5 to 6.
+Changed CHANNELER(Channeler) Mana upkeep: from 1 to 2.
+Changed CLERIC(Cleric) Mana upkeep: from 1 to 2.
+Changed Components(Barracks) Iron Production: from -1 to .
+Changed Components(Barracks) Stone Production: from -1 to .
+Changed Components(Barracks) Wood Production: from -1 to .
+Changed Components(Billet) Gold Production: from  to 5.
+Changed Components(Billet) Iron Production: from 1 to 0.
+Changed Components(Billet) Stone Production: from 1 to 0.
+Changed Components(Billet) Wood Production: from 1 to 0.
+Changed Components(Supply Post) Iron Production: from 1 to 3.
+Changed Components(Supply Post) Stone Production: from 1 to 3.
+Changed Components(Supply Post) Wood Production: from 1 to 3.
+Changed CONJUROR(Conjuror) Mana upkeep: from 3 to 4.
+Changed COUNCIL_CITADEL(Council Citadel) Gold Production: from 30 to 34.
+Changed COUNCIL_CITY(Council City) Gold Production: from 18 to 21.
+Changed COUNCIL_TOWN(Council Town) Gold Production: from 12 to 14.
+Changed COUNCIL_VILLAGE(Council Village) Gold Production: from 6 to 7.
+Changed DEFILER(Defiler) Mana upkeep: from 2 to 3.
+Changed DEVOUT(Devout) Mana upkeep: from 2 to 3.
+Changed ELEMENTALIST(Elementalist) Mana upkeep: from 3 to 4.
+Changed ELITE_ARCHER(Elite Bowman) Reload Time: from .5 to 1.3.
+Changed ENCHANTER(Enchanter) Mana upkeep: from 3 to 4.
+Changed FANATIC(Fanatic) Mana upkeep: from 2 to 3.
+Changed FOOTMAN(Footman) Damage: from 20 to 18.
+Changed FOOTMAN(Footman) ATTACK_BONUS_TO_MOUNTED from 5 to 3.
+Changed FOOTMAN(Footman) Defense: from 10 to 8.
+Changed GRENADIER(Grenadier) ArmoryGuild from Off to On.
+Changed GRENADIER(Grenadier) Blacksmith from On to Off.
+Changed HIGH_PRIEST(High Priest) Mana upkeep: from 2 to 3.
+Changed HUSSAR(Hussar) Color: from Player to Gold.
+Changed HUSSAR(Hussar) Move: from 30 to 26.
+Changed INVOKER(Invoker) Mana upkeep: from 3 to 4.
+Changed LICH(Lich) Mana upkeep: from 2 to 3.
+Changed MACABRE(Macabre) Mana upkeep: from 3 to 4.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Type: from Off to Projectile.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Damage: from Off to 15.
+Changed MAELSTROM_ORB2(Maelstrom Engine) DamageType: from Off to Normal.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Morale Damage: from Off to 0.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Mor. Dmg Type: from Off to Normal.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Reload Time: from Off to 3.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Anim: from Off to 0.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Type: from Off to Melee.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Damage: from Off to 15.
+Changed MAELSTROM_ORB2(Maelstrom Engine) DamageType: from Off to Normal.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Morale Damage: from Off to 0.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Mor. Dmg Type: from Off to Normal.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Reload Time: from Off to 2.
+Changed MAELSTROM_ORB2(Maelstrom Engine) CarpentryGuild from Off to On.
+Changed MAELSTROM_ORB2(Maelstrom Engine) ExceptFaction: from Off to Ceyah.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Library from On to Off.
+Changed MAELSTROM_ORB2(Maelstrom Engine) OnlyFaction: from Off to Council.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Quarry from Off to On.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Race: from Off to Mareten.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Tech: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Woodmill from On to Off.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Control zone: from Off to 3.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Entrenchment: from Off to 1.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Morale: from Off to 35.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Visual range: from Off to 8.
+Changed MAELSTROM_ORB2(Maelstrom Engine) ATTACK_BONUS_TO_BUILDING from 150 to 50.
+Changed MAELSTROM_ORB2(Maelstrom Engine) DEFENSE_BONUS_VS_ARCHER from Off to 2.
+Changed MAELSTROM_ORB2(Maelstrom Engine)  from  to Ballista.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Cost in gold: from Off to 15.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Defense: from Off to 2.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Max hit points: from Off to 150.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Color: from Off to Silver.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Proper name: from Off to Ballista.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Iron upkeep: from Off to 0.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Mana upkeep: from Off to 0.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Stone upkeep: from Off to 1.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Wood upkeep: from Off to 2.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 0: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 1: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 0: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 1: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 0: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 1: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 0: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Spell 1: from Off to None.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Description: from Off to The ballista is the faster, weaker and cheaper non-magical cousin of the Maelstrom Engine. .
+Changed MAELSTROM_ORB2(Maelstrom Engine) Move: from Off to 18.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Type: from Off to Support.
+Changed MAELSTROM_ORB2(Maelstrom Engine) Walk distance: from Off to 0.85.
+Changed MERCENARY(Mercenary) Color: from Player to Silver.
+Changed NATIONALIST_CITADEL(Nationalist Citadel) Gold Production: from 25 to 29.
+Changed NATIONALIST_CITY(Nationalist City) Gold Production: from 15 to 18.
+Changed NATIONALIST_TOWN(Nationalist Town) Gold Production: from 10 to 12.
+Changed NATIONALIST_VILLAGE(Nationalist Village) Gold Production: from 5 to 6.
+Changed NECROMANCER(Necromancer) Mana upkeep: from 2 to 3.
+Changed ORACLE(Oracle) Mana upkeep: from 2 to 3.
+Changed PATHFINDER(Pathfinder) Color: from Player to Silver.
+Changed PIKEMAN(Pikeman) ATTACK_BONUS_TO_MOUNTED from 5 to 3.
+Changed PIKEMAN(Pikeman) Color: from Player to Silver.
+Changed PROPHET(Prophet) Mana upkeep: from 1 to 2.
+Changed ROYALIST_CITADEL(Royalist Citadel) Gold Production: from 25 to 29.
+Changed ROYALIST_CITY(Royalist City) Gold Production: from 15 to 18.
+Changed ROYALIST_TOWN(Royalist Town) Gold Production: from 10 to 12.
+Changed ROYALIST_VILLAGE(Royalist Village) Gold Production: from 5 to 6.
+Changed SCOUT(Scout) Move: from 30 to 26.
+Changed SHADOW_PRIEST(Shadow Priest) Mana upkeep: from 1 to 2.
+Changed SHADOW_PROPHET(Shadow Prophet) Mana upkeep: from 2 to 3.
+Changed SHOCK_TROOPER(Elite Guard) Damage: from 48 to 38.
+Changed SHOCK_TROOPER(Elite Guard) ArmoryGuild from Off to On.
+Changed SHOCK_TROOPER(Elite Guard) Blacksmith from On to Off.
+Changed SHOCK_TROOPER(Elite Guard) Max hit points: from 420 to 380.
+Changed SORCERER(Sorcerer) Mana upkeep: from 3 to 4.
+Changed SORCERESS(Sorceress) Mana upkeep: from 2 to 3.
+Changed STORM_LORD(Storm Lord) Mana upkeep: from 3 to 4.
+Changed SUMMONER(Summoner) Mana upkeep: from 2 to 3.
+Changed VOID_BEAST(Void Beast) Damage: from 48 to 38.
+Changed VOID_BEAST(Void Beast) DAMAGE_TAKEN_FROM_HOLY from Off to 1.5.
+Changed VOID_BEAST(Void Beast) Cost in gold: from 5 to 10.
+Changed VOID_BEAST(Void Beast) Defense: from 10 to 6.
+Changed VOID_BEAST(Void Beast) Max hit points: from 460 to 420.
+Changed WARLOCK(Warlock) Mana upkeep: from 3 to 4.
+Changed WARMAGE(Magician) Mana upkeep: from 2 to 3.
+Changed WIZARD(Wizard) Mana upkeep: from 2 to 3.
+Changed WRAITH(Wraith) Mana upkeep: from 1 to 2.
+Changed ZEALOT(Zealot) Mana upkeep: from 1 to 2.
+Changed ZOMBIE(Zombie) Damage: from 18 to 16.
+
+Version 0.0.0.3:
+Changed ZOMBIE(Zombie) RESUPPLY_RATE_BONUS from 2.0 to Off.
+Changed ZOMBIE2(Corruptor) RESUPPLY_RATE_BONUS from 2.0 to Off.
+
+Version 0.0.0.2:
+Changed SHADELING_SUPPORT(Shadeling Spawn) Captain: from shadow_captain2 to None.
+
+Version 0.0.0.1:
+Changed CROSSBOWMAN(Crossbowman) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed DRAGOON(Dragoon) Wood upkeep: from 0 to 1.
+Changed GRENADIER(Grenadier) Morale: from 45 to 50.
+Changed GRENADIER(Grenadier) Banner: from 16 to 18.
+Changed GRENADIER(Grenadier) Move: from 14 to 16.
+Changed HUSSAR(Scout) Type: from Off to Melee.
+Changed HUSSAR(Scout) Damage: from Off to 18.
+Changed HUSSAR(Scout) DamageType: from Off to Normal.
+Changed HUSSAR(Scout) Morale Damage: from Off to 0.
+Changed HUSSAR(Scout) Mor. Dmg Type: from Off to Normal.
+Changed HUSSAR(Scout) Reload Time: from Off to 0.5.
+Changed HUSSAR(Scout) Type: from Off to None.
+Changed HUSSAR(Scout) DamageType: from Off to 0.
+Changed HUSSAR(Scout) Morale Damage: from Off to 0.
+Changed HUSSAR(Scout) Mor. Dmg Type: from Off to Normal.
+Changed HUSSAR(Scout) Reload Time: from Off to 0.
+Changed HUSSAR(Scout) Barracks from Off to On.
+Changed HUSSAR(Scout) ExceptFaction: from Off to Ceyah.
+Changed HUSSAR(Scout) OnlyFaction: from Off to Any.
+Changed HUSSAR(Scout) Race: from Off to Mareten.
+Changed HUSSAR(Scout) Tech: from Off to None.
+Changed HUSSAR(Scout) Control zone: from Off to 4.
+Changed HUSSAR(Scout) Entrenchment: from Off to 5.
+Changed HUSSAR(Scout) Morale: from Off to 35.
+Changed HUSSAR(Scout) Visual range: from Off to 8.
+Changed HUSSAR(Scout)  from  to Hussar.
+Changed HUSSAR(Scout) Cost in gold: from Off to 8.
+Changed HUSSAR(Scout) Defense: from Off to 10.
+Changed HUSSAR(Scout) Max hit points: from Off to 300.
+Changed HUSSAR(Scout) Color: from Off to Player.
+Changed HUSSAR(Scout) Proper name: from Off to Hussar.
+Changed HUSSAR(Scout) Iron upkeep: from Off to 0.
+Changed HUSSAR(Scout) Mana upkeep: from Off to 0.
+Changed HUSSAR(Scout) Stone upkeep: from Off to 0.
+Changed HUSSAR(Scout) Wood upkeep: from Off to 2.
+Changed HUSSAR(Scout) Spell 0: from Off to None.
+Changed HUSSAR(Scout) Spell 1: from Off to None.
+Changed HUSSAR(Scout) Spell 0: from Off to None.
+Changed HUSSAR(Scout) Spell 1: from Off to None.
+Changed HUSSAR(Scout) Spell 0: from Off to None.
+Changed HUSSAR(Scout) Spell 1: from Off to None.
+Changed HUSSAR(Scout) Spell 0: from Off to None.
+Changed HUSSAR(Scout) Spell 1: from Off to None.
+Changed HUSSAR(Scout) ATTACK_BONUS_TO_ARCHER from Off to 2.
+Changed HUSSAR(Scout) MOVEMENT_BONUS from 1.1 to 1.2.
+Changed HUSSAR(Scout) Banner: from Off to 20.
+Changed HUSSAR(Scout) Captain: from Off to cavalry_captain.
+Changed HUSSAR(Scout) Description: from Off to The fastest and deadliest scouts form into elite hussar companies to serve at the frontline of Mareten war efforts. Hussars drive their companies to move faster and fight especially well against archers..
+Changed HUSSAR(Scout) Move: from Off to 30.
+Changed HUSSAR(Scout) Type: from Off to Front.
+Changed HUSSAR(Scout) Walk distance: from Off to 1.4.
+Changed INFANTRY(Infantry) Damage: from 22 to 24.
+Changed INFANTRY(Infantry) Barracks from Off to On.
+Changed INFANTRY(Infantry) Morale: from 35 to 45.
+Changed INFANTRY(Infantry) MORALE_BONUS from Off to 4.
+Changed INFANTRY(Infantry) MORALE_RECOVERY_RATE_BONUS from Off to 1.2.
+Changed INFANTRY(Infantry) REVERSE_DAMAGE_WHEN_HIT from Off to 2.
+Changed INFANTRY(Infantry) Cost in gold: from 5 to 6.
+Changed INFANTRY(Infantry) Defense: from 12 to 16.
+Changed INFANTRY(Infantry) Iron upkeep: from 1 to 2.
+Changed LICH(Lich) Tech: from Lich to None.
+Changed PIKEMAN(Pikeman) Tech: from Pikeman to None.
+Changed PIKEMAN(Pikeman) Iron upkeep: from 0 to 1.
+Changed PIKEMAN(Pikeman) Wood upkeep: from 1 to 0.
+Changed PIKEMAN(Pikeman) DEFENSE_BONUS_VS_ANY from Off to 2.
+Changed SCOUT(Scout) DAMAGE_TAKEN_FROM_RANGED from Off to 0.5.
+Changed SCOUT(Scout) MOVEMENT_BONUS from Off to 1.1.
+Changed SCOUT(Scout) Move: from 32 to 30.
+Changed SHADELING_SCOUT(Shadeling) MOVEMENT_BONUS from Off to 1.1.
+Changed SHADELING_SCOUT(Shadeling) Move: from 26 to 24.
+Changed SHADELING_SUPPORT(Shadeling) Type: from Off to Melee.
+Changed SHADELING_SUPPORT(Shadeling) Damage: from Off to 14.
+Changed SHADELING_SUPPORT(Shadeling) DamageType: from Off to Normal.
+Changed SHADELING_SUPPORT(Shadeling) Morale Damage: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Mor. Dmg Type: from Off to Normal.
+Changed SHADELING_SUPPORT(Shadeling) Reload Time: from Off to 0.1.
+Changed SHADELING_SUPPORT(Shadeling) Type: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) DamageType: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Morale Damage: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Mor. Dmg Type: from Off to Normal.
+Changed SHADELING_SUPPORT(Shadeling) Reload Time: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) ExceptFaction: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) OnlyFaction: from Off to Ceyah.
+Changed SHADELING_SUPPORT(Shadeling) Quarry from Off to On.
+Changed SHADELING_SUPPORT(Shadeling) Race: from Off to Any.
+Changed SHADELING_SUPPORT(Shadeling) Tech: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Control zone: from Off to 4.
+Changed SHADELING_SUPPORT(Shadeling) Entrenchment: from Off to 10.
+Changed SHADELING_SUPPORT(Shadeling) Morale: from Off to 30.
+Changed SHADELING_SUPPORT(Shadeling) Visual range: from Off to 7.
+Changed SHADELING_SUPPORT(Shadeling)  from  to Shadeling Spawn.
+Changed SHADELING_SUPPORT(Shadeling) Cost in gold: from Off to 3.
+Changed SHADELING_SUPPORT(Shadeling) Defense: from Off to 6.
+Changed SHADELING_SUPPORT(Shadeling) Max hit points: from Off to 110.
+Changed SHADELING_SUPPORT(Shadeling) Color: from Off to Player.
+Changed SHADELING_SUPPORT(Shadeling) Proper name: from Off to Shadeling Spawn.
+Changed SHADELING_SUPPORT(Shadeling) Iron upkeep: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Mana upkeep: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Stone upkeep: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Wood upkeep: from Off to 0.
+Changed SHADELING_SUPPORT(Shadeling) Spell 0: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 1: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 0: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 1: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 0: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 1: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 0: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) Spell 1: from Off to None.
+Changed SHADELING_SUPPORT(Shadeling) MOVEMENT_BONUS from 1.1 to 0.
+Changed SHADELING_SUPPORT(Shadeling) Banner: from Off to 22.
+Changed SHADELING_SUPPORT(Shadeling) Captain: from Off to shadow_captain2.
+Changed SHADELING_SUPPORT(Shadeling) Description: from Off to Small and vicious, Shadelings are the embodiment of spite among the creatures of shadow. Shadeling Spawn boost the size of the Dark Master's armies, but do not provide the movement bonuses that regular Shadelings provide..
+Changed SHADELING_SUPPORT(Shadeling) Move: from Off to 26.
+Changed SHADELING_SUPPORT(Shadeling) Type: from Off to Support.
+Changed SHADELING_SUPPORT(Shadeling) Walk distance: from Off to 0.77.
+Changed SORCERER(Sorcerer) OnlyFaction: from Any to Royalist.
+Changed SORCERER(Sorcerer) Tech: from Sorcerer to None.
+Changed ZOMBIE(Zombie) RESUPPLY_RATE_BONUS from Off to 2.0.
+Changed ZOMBIE(Zombie) Move: from 10 to 14.
+Changed ZOMBIE(Zombie) Walk distance: from .4 to .6.
+Changed ZOMBIE2(Zombie) Type: from Off to Melee.
+Changed ZOMBIE2(Zombie) Damage: from Off to 14.
+Changed ZOMBIE2(Zombie) DamageType: from Off to Normal.
+Changed ZOMBIE2(Zombie) Morale Damage: from Off to 0.
+Changed ZOMBIE2(Zombie) Mor. Dmg Type: from Off to Normal.
+Changed ZOMBIE2(Zombie) Reload Time: from Off to 0.5.
+Changed ZOMBIE2(Zombie) Type: from Off to None.
+Changed ZOMBIE2(Zombie) DamageType: from Off to 0.
+Changed ZOMBIE2(Zombie) Morale Damage: from Off to 0.
+Changed ZOMBIE2(Zombie) Mor. Dmg Type: from Off to Normal.
+Changed ZOMBIE2(Zombie) Reload Time: from Off to 0.
+Changed ZOMBIE2(Zombie) ExceptFaction: from Off to None.
+Changed ZOMBIE2(Zombie) OnlyFaction: from Off to Ceyah.
+Changed ZOMBIE2(Zombie) Race: from Off to None.
+Changed ZOMBIE2(Zombie) Tech: from Off to None.
+Changed ZOMBIE2(Zombie) Control zone: from Off to 4.
+Changed ZOMBIE2(Zombie) Entrenchment: from Off to 2.
+Changed ZOMBIE2(Zombie) Morale: from Off to 25.
+Changed ZOMBIE2(Zombie) Visual range: from Off to 6.
+Changed ZOMBIE2(Zombie) MELEE_UNHOLY_DAMAGE from Off to 6.
+Changed ZOMBIE2(Zombie) PARALYZE_BONUS from Off to 1.
+Changed ZOMBIE2(Zombie)  from  to Corruptor.
+Changed ZOMBIE2(Zombie) Cost in gold: from Off to 9.
+Changed ZOMBIE2(Zombie) Defense: from Off to 8.
+Changed ZOMBIE2(Zombie) Max hit points: from Off to 400.
+Changed ZOMBIE2(Zombie) Color: from Off to Player.
+Changed ZOMBIE2(Zombie) Proper name: from Off to Corruptor.
+Changed ZOMBIE2(Zombie) Iron upkeep: from Off to 0.
+Changed ZOMBIE2(Zombie) Mana upkeep: from Off to 1.
+Changed ZOMBIE2(Zombie) Stone upkeep: from Off to 0.
+Changed ZOMBIE2(Zombie) Wood upkeep: from Off to 0.
+Changed ZOMBIE2(Zombie) Spell 0: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 1: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 0: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 1: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 0: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 1: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 0: from Off to None.
+Changed ZOMBIE2(Zombie) Spell 1: from Off to None.
+Changed ZOMBIE2(Zombie) Banner: from Off to 23.
+Changed ZOMBIE2(Zombie) Captain: from Off to Undead_captain.
+Changed ZOMBIE2(Zombie) Description: from Off to Corruptors are the risen corpses of mages and priests that now channel the power of the shadow..
+Changed ZOMBIE2(Zombie) Move: from Off to 16.
+Changed ZOMBIE2(Zombie) Type: from Off to Front.
+Changed ZOMBIE2(Zombie) Walk distance: from Off to .4.
+
+ 
